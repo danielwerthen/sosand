@@ -1,0 +1,13 @@
+ul {
+	list-style: none;
+}
+li {
+	display: inline-block;
+}
+img {
+	width: 200px;
+}
+
+img.big {
+	width: 400px;
+}

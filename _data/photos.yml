@@ -1,0 +1,27 @@
+- name: Dimma
+  url: imgs/dimma.jpg
+  size: big
+
+- name: Drake
+  url: imgs/drake.jpg
+  size: big
+
+- name: Hundgård
+  url: imgs/hundgård.jpg
+  size: big
+      
+- name: Korea
+  url: imgs/korea.jpg
+  size: big
+
+- name: RED
+  url: imgs/red.jpg
+  size: small
+
+- name: Valp
+  url: imgs/valp.jpg
+  size: small
+
+- name: Volt
+  url: imgs/volt.jpg
+  size: big
