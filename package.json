@@ -1,0 +1,10 @@
+{
+	"author": "Daniel Werthén",
+	"name": "sosand",
+	"version": "0.1.1",
+	"devDependencies": {
+		"imagemagick": "*",
+		"grunt-imagemagick": "*",
+		"grunt": "*"
+	}
+}

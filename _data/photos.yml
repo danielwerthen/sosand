@@ -1,27 +1,49 @@
 - name: Dimma
-  url: imgs/dimma.jpg
+  url: dimma.jpg
   size: big
+  orientation: portrait
 
 - name: Drake
-  url: imgs/drake.jpg
+  url: drake.jpg
   size: big
+  orientation: portrait
 
 - name: Hundgård
-  url: imgs/hundgård.jpg
+  url: hundgård.jpg
   size: big
+  orientation: portrait
       
 - name: Korea
-  url: imgs/korea.jpg
+  url: korea.jpg
   size: big
+  orientation: landscape
 
-- name: RED
-  url: imgs/red.jpg
+- name: RED 
+  url: red-dragon.jpg
   size: small
+  orientation: landscape
+
+- name: Ropa så ingen hör 1 
+  url: ropa1.jpg
+  size: small
+  orientation: landscape
+
+- name: Ropa så ingen hör 2
+  url: ropa2.jpg
+  size: small
+  orientation: landscape
+
+- name: Tvätt
+  url: tvatt.jpg
+  size: small
+  orientation: landscape
 
 - name: Valp
-  url: imgs/valp.jpg
+  url: valp.jpg
   size: small
+  orientation: portrait
 
 - name: Volt
-  url: imgs/volt.jpg
+  url: volt.jpg
   size: big
+  orientation: portrait

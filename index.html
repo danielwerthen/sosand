@@ -3,11 +3,10 @@ layout: front
 title: Sonja Sandström
 ---
 <div>
-	Sadnström
 	<ul>
 	{% for photo in site.data.photos %}
 		<li>
-			<img class="{{ photo.size }}" src="{{ photo.url }}" alt="{{ photo.name }}" />
+			<img class="{{ photo.sizes }}" src="/imgs/thumbs/{{ photo.url }}" alt="{{ photo.name }}" />
 		</li>
 	{% endfor %}
 	</ul>
