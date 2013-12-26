@@ -11,3 +11,7 @@ img {
 img.big {
 	width: 400px;
 }
+
+.absolute {
+	position: absolute;
+}
