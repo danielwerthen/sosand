@@ -4,9 +4,13 @@ title: Sonja Sandström
 ---
 <div>
 	<ul>
-	{% for photo in site.data.photos %}
+	{% for card in site.data.cards %}
 		<li>
-			<img class="{{ photo.sizes }}" src="/imgs/thumbs/{{ photo.url }}" alt="{{ photo.name }}" />
+			{% if card.type == "photo" %}
+				<div class="card photo" data-link="imgs/{{ card.background }}" >
+					<img src="imgs/thumbs/{{ card.background }}" alt="{{ card.name }}" />
+				</div>
+			{% endif %}
 		</li>
 	{% endfor %}
 	</ul>
