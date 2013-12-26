@@ -43,7 +43,7 @@
 			columns = Math.floor($(window).width() / width);
 		var sorted = _.sortBy(cards, function (c) { return -$(c).outerHeight(); });
 		cards.addClass('absolute');
-		var it = iterator(columns),
+		var it = iterator(columns > 4 ? 4 : columns),
 			place = placer();
 		_.each(sorted, function (card) {
 			var ptr = it.ptr();
