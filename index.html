@@ -8,7 +8,9 @@ title: Sonja Sandström
 		<li>
 			{% if card.type == "photo" %}
 				<div class="card photo" data-link="imgs/{{ card.background }}" >
-					<img src="imgs/thumbs/{{ card.background }}" alt="{{ card.name }}" />
+					<a href="imgs/{{ card.background }}">
+						<img src="imgs/thumbs/{{ card.background }}" alt="{{ card.name }}" />
+					</a>
 				</div>
 			{% endif %}
 		</li>

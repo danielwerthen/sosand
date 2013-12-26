@@ -1,3 +1,4 @@
 _site/
 *.swp
 node_modules/
+.DS_Store
