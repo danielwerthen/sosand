@@ -45,7 +45,7 @@
 		cards.addClass('absolute');
 		var it = iterator(columns > 4 ? 4 : columns),
 			place = placer();
-		_.each(sorted, function (card) {
+		_.each(cards, function (card) {
 			var ptr = it.ptr();
 			place(card, ptr);
 			it.step();
