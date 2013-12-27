@@ -41,6 +41,8 @@
 		var cards = $('div.card'),
 			width = $(cards[0]).outerWidth(),
 			columns = Math.floor($(window).width() / width);
+		$('.loader').addClass('hide');
+		$('.content').addClass('show');
 		var sorted = _.sortBy(cards, function (c) { return -$(c).outerHeight(); });
 		cards.addClass('absolute');
 		var it = iterator(columns > 4 ? 4 : columns),
