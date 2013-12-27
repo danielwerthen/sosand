@@ -13,6 +13,11 @@ title: Sonja Sandström
 					</a>
 				</div>
 			{% endif %}
+			{% if card.type == "vimeo" %}
+				<div class="card vimeo" >
+					<iframe src="//player.vimeo.com/video/{{ card.vimeo }}" width="200" height="133" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+				</div>
+			{% endif %}
 		</li>
 	{% endfor %}
 	</ul>
