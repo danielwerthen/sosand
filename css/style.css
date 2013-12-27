@@ -42,13 +42,14 @@ ul {
 li {
 	display: inline-block;
 }
-img {
+
+div.card {
 	width: 200px;
 }
-
-img.big {
-	width: 400px;
+img {
+	width: 100%;
 }
+
 
 .absolute {
 	position: absolute;

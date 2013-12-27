@@ -1,3 +1,8 @@
+- name: RED 
+  background: red-dragon.jpg
+  type: photo
+  orientation: landscape
+
 - name: Video 1
   vimeo: 74390340
   type: vimeo
@@ -35,11 +40,6 @@
       
 - name: Korea
   background: korea.jpg
-  type: photo
-  orientation: landscape
-
-- name: RED 
-  background: red-dragon.jpg
   type: photo
   orientation: landscape
 
