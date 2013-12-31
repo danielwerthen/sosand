@@ -7,7 +7,7 @@ module.exports = function (grunt) {
 				to: 'imgs/thumbs/',
 				files: '*.jpg',
 				props: {
-					width: 400
+					width: 800
 				}
 			}
 		}, 'imagemagick-hisrc': {
@@ -20,5 +20,5 @@ module.exports = function (grunt) {
 
 	grunt.loadNpmTasks('grunt-imagemagick');
 
-	grunt.registerTask('resize', ['imagemagick-hisrc']);
+	grunt.registerTask('resize', ['imagemagick-resize']);
 };

@@ -3,7 +3,8 @@
 
 guard 'livereload' do
   watch(%r{_site/.+\.(css|js|html)})
-  watch(%r{css/.+\.(css|js|html)})
-  watch(%r{_data/.+\.(yml|yaml)})
+  # watch(%r{css/.+\.(css|js|html)})
+  # watch(%r{js/.+\.(css|js|html)})
+  # watch(%r{_data/.+\.(yml|yaml)})
 end
 
