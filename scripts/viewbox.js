@@ -10,9 +10,6 @@ $(function () {
 					ar = nw / nh,
 					sw = win.width(),
 					sh = win.height();
-				if (!ar) {
-					ar = 1;
-				}
 
 				function set(size, ar) {
 					if (size > sw) {
@@ -29,11 +26,21 @@ $(function () {
 					});
 				}
 
-				if (nw < sw) {
-					set(sw, ar);
-				} else {
-					set(nw, ar);
-				}
+				(function () {
+					var size, max;
+					if (nw < nh) {
+						size = nh;
+						max = sh;
+					} else {
+						size = nw;
+						max = sw;
+					}
+					if (size < max) {
+						set(max, ar);
+					} else {
+						set(size, ar);
+					}
+				})();
 			});
 		};
 	_.each(items, function (element, id) {
