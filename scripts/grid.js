@@ -31,6 +31,9 @@
 			var c = $(card),
 				h = _.reduce(grid[ptr.x] || [], function (m, n) { return m + n; }, 0),
 				height = (c.height() / c.width()) * width;
+			if (height <= 0) {
+				height = width * 3 / 4;
+			}
 			c.css({ left: ptr.x * width, top: h, width: width});
 			if (c.hasClass('vimeo')) {
 				c.find('iframe').width(width).height(height);
@@ -43,7 +46,7 @@
 
 		//find all cards
 		var cards = $('div.card'),
-			width = $(cards[0]).outerWidth(),
+			width = 200,
 			screenw = $(window).width(),
 			columns = Math.floor(screenw / width);
 		columns = columns > 4 ? 4 : columns;
@@ -67,5 +70,22 @@
 	});
 	window.addEventListener('resize', function load() {
 		group();
+		resizeLoader();
 	});
+
+	var img = $('div.loader img'),
+		resizeLoader = function () {
+			var win = $(window),
+				ar = img[0].naturalWidth / img[0].naturalHeight,
+				sar = win.width() / win.height();
+			if (sar > ar) {
+				img.width(win.width());
+				img.height('initial');
+			} else {
+				img.width('initial');
+				img.height(win.height());
+			}
+		};
+	resizeLoader();
+
 })();
