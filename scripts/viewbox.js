@@ -10,6 +10,9 @@ $(function () {
 					ar = nw / nh,
 					sw = win.width(),
 					sh = win.height();
+				if (!ar) {
+					ar = 1;
+				}
 
 				function set(size, ar) {
 					if (size > sw) {
