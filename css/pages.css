@@ -1,0 +1,64 @@
+div, p, a, h1, h2, h3, h4, h5 {
+	font-family: 
+}
+body {
+	font: 1.9rem/1.5em  Lucida Grande;
+	color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+font-family: helvetica, arial, verdana, sans-serif;
+font-weight: bolder;
+color: #222;
+margin-top: 27px;
+}
+
+h1 {
+font-size: 218%;
+}
+
+h2 {
+font-size: 164%;
+}
+
+h3 {
+font-size: 145%;
+}
+
+h4 {
+font-size: 118%;
+}
+
+div.page {
+	margin: 0 auto;
+}
+@media screen and (max-width:767px) {
+	body {
+		font: 1.2rem/1.9em  Lucida Grande;
+		color: #333;
+	}
+	h1, h2, h3, h4, h5, h6 {
+		margin-top: 13px;
+	}
+	div.page {
+	}
+}
+@media screen and (max-width:959px) {
+	div.page {
+	}
+}
+@media screen and (min-width:960px) and (max-width:1599px) {
+	div.page {
+		max-width: 768px;
+	}
+}
+@media screen and (min-width:1600px) {
+	div.page {
+		max-width: 1024px;
+	}
+}
+
+h1 a {
+	color: #222;
+	text-decoration: none;
+}

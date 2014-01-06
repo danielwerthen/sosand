@@ -1,7 +1,16 @@
-- name: RED 
+- name: bio 
   background: red-dragon.jpg
-  type: photo
-  orientation: landscape
+  type: page
+
+- name: cv
+  display: CV
+  type: page
+  background: diabild.gif
+
+- name: contact
+  display: Contact
+  type: page
+  background: diabild.gif
 
 - name: Video 1
   vimeo: 82803389

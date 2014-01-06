@@ -1,3 +1,13 @@
+- name: cv
+  display: CV
+  type: page
+  background: diabild.gif
+
+- name: contact
+  display: Contact
+  type: page
+  background: diabild.gif
+
 - name: RED 
   background: red-dragon.jpg
   type: photo
