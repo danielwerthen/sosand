@@ -3,14 +3,14 @@ layout: front
 title: Sonja Sandström
 ---
 <div class="loader">
-	<img src="imgs/loader.png" alt="Loading site, place holder" />
+	<img src="imgs/red-dragon.jpg" alt="Loading site, place holder" />
 </div>
 <div class="content">
 	<ul class="cards">
 	{% for card in site.data.cards %}
 		<li>
 			{% if card.type == "photo" %}
-			<div class="card photo" data-link="#closeup-{{ card.name }}" >
+			<div class="card photo" data-link="images/#closeup-{{ card.name }}" >
 					<img src="imgs/thumbs/{{ card.background }}" alt="{{ card.name }}" />
 				</div>
 			{% endif %}
@@ -23,17 +23,4 @@ title: Sonja Sandström
 	{% endfor %}
 
 	</ul>
-	<div class="viewbox">
-		{% for card in site.data.cards %}
-			{% if card.type == "photo" %}
-				<div class="boxitem photo" id="#closeup-{{ card.name }}">
-					<img src="imgs/{{ card.background }}" alt="{{ card.name }}" />
-					<a class="prev"></a>
-					<a class="next"></a>
-				</div>
-			{% endif %}
-			{% if card.type == "vimeo" %}
-			{% endif %}
-		{% endfor %}
-	</div>                                                      
 </div>

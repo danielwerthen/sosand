@@ -16,7 +16,7 @@ $(function () {
 						return set(sw, ar);
 					}
 					if (size / ar > sh) {
-						return set(sh * ar, ar);
+						return set(Math.floor(sh * ar), ar);
 					}
 					item.css({
 						width: size,
@@ -75,6 +75,7 @@ $(function () {
 		} else {
 			cards.hide();
 		}
+		resize();
 	}
 	window.addEventListener("hashchange", nav, false);
 	nav();

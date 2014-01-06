@@ -1,0 +1,17 @@
+---
+layout: images
+title: Sonja Sandström
+---
+<div class="viewbox">
+	{% for card in site.data.cards %}
+		{% if card.type == "photo" %}
+			<div class="boxitem photo" id="#closeup-{{ card.name }}">
+				<img src="../imgs/{{ card.background }}" alt="{{ card.name }}" />
+				<a class="prev"></a>
+				<a class="next"></a>
+			</div>
+		{% endif %}
+		{% if card.type == "vimeo" %}
+		{% endif %}
+	{% endfor %}
+</div>                                                      
