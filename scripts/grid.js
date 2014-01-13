@@ -64,7 +64,9 @@
 	// On window load
 	window.addEventListener('load', function load() {
 		window.removeEventListener('load', load);
-		$('.content').addClass('show');
+		if (!$('#display').hasClass("show")) {
+			$('.content').addClass('show');
+		}
 		group();
 		$('.loader').addClass('hide');
 	});

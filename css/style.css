@@ -33,11 +33,13 @@ div.loader h1 {
 }
 
 div.content {
-	display: none;
+	opacity: 0;
+	pointer-events: none;
 }
 
 div.content.show {
-	display: inherit;
+	opacity: 1;
+	pointer-events: inherit;
 }
 
 ul {
@@ -99,9 +101,54 @@ div.card.page p {
 	width: 100%;
 	text-align: center;
 	top: 40%;
-	font-size: 6em;
 	color: white;
 	margin: 0;
-	font-family: helvetica, arial, sans-serif;
+	font: 1.9rem/1.5em helvetica, arial, sans-serif;
 	font-weight: bold;
+}
+
+div#display {
+	z-index: -999;
+	padding: 0px;
+	margin: 0px;
+	background: white;
+	opacity: 0;
+	-webkit-transition: opacity 1s ease-out;
+}
+
+div#display.show {
+	height: 100%;
+	z-index: 999;
+	-webkit-transition: opacity 1s ease-out;
+	opacity: 1;
+}
+
+div#display .container {
+	padding-top: 50px;
+}
+
+div#display a.back {
+	top: 0px;
+	position: fixed;
+	height: 50px;
+	width: 100%;
+	background: white;
+	color: black;
+	text-align: center;
+	text-decoration: none;
+}
+
+div#display img.viewer {
+	width: 100%;
+	height: 100%;
+}
+
+div#display .viewbox {
+	height: 700px;
+	left: 50%;
+	margin-top: -350px;
+	margin-left: -350px;
+	position: absolute;
+	top: 50%;
+	width: 700px;
 }

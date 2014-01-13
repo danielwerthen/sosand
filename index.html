@@ -5,13 +5,18 @@ title: Sonja Sandström
 <div class="loader">
 	<img src="imgs/red-dragon.jpg" alt="Loading site, place holder" />
 </div>
+<div id="display">
+	<div class="container">
+	</div>
+	<a class="back" href="#">{Back}</a>
+</div>
 <div class="content">
 	<ul class="cards">
-	{% for card in site.data.cards %}
+	{% for card in site.data.withoutvideo %}
 		<li>
 			{% if card.type == "page" %}
 				<div class="card page">
-					<a href="pages/{{ card.name }}.html">
+					<a href="#pages/{{ card.name }}.html">
 						<img src="imgs/{{ card.background }}" alt="{{ card.name }}" />
 						<p>
 							{{ card.display }}
@@ -20,7 +25,7 @@ title: Sonja Sandström
 				</div>
 			{% endif %}
 			{% if card.type == "photo" %}
-			<div class="card photo" data-link="images/#closeup-{{ card.name }}" >
+			<div class="card photo" data-link="#imgs/{{ card.background }}" >
 					<img src="imgs/thumbs/{{ card.background }}" alt="{{ card.name }}" />
 				</div>
 			{% endif %}
