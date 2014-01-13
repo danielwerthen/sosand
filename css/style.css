@@ -103,7 +103,7 @@ div.card.page p {
 	top: 40%;
 	color: white;
 	margin: 0;
-	font: 1.9rem/1.5em helvetica, arial, sans-serif;
+	font: 2.9rem/1.5em helvetica, arial, sans-serif;
 	font-weight: bold;
 }
 
@@ -148,7 +148,12 @@ div#display .viewbox {
 	left: 50%;
 	margin-top: -350px;
 	margin-left: -350px;
-	position: absolute;
+	position: fixed;
 	top: 50%;
 	width: 700px;
+}
+
+div.card.vimeo {
+	width: 260px;
+	height: 260px;
 }

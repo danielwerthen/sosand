@@ -67,6 +67,8 @@
 		if (!$('#display').hasClass("show")) {
 			$('.content').addClass('show');
 		}
+		loadIFrames();
+		group();
 		group();
 		$('.loader').addClass('hide');
 	});
@@ -74,6 +76,15 @@
 		group();
 		resizeLoader();
 	});
+
+	function loadIFrames() {
+		var videos = $('.card.vimeo');
+		videos.each(function (item, test) {
+			var v = $(videos[item]);
+			v.html('<iframe src="' + v.data('src') + '" width="260" height="170" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>');
+
+		});
+	}
 
 	var img = $('div.loader img'),
 		resizeLoader = function () {

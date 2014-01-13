@@ -1,6 +1,7 @@
 $(function () {
 	var display = $('#display'),
-		content = $('.content');
+		content = $('.content'),
+		resizer;
 	function resize(element) {
 		var item = $(element).find('.viewbox'),
 			img = item.find('img'),
@@ -8,14 +9,16 @@ $(function () {
 			nw = img[0].naturalWidth,
 			nh = img[0].naturalHeight,
 			ar = nw / nh,
-			sw = win.width(),
-			sh = win.height();
+			w = window,
+			d = document,
+			e = d.documentElement,
+			g = d.getElementsByTagName('body')[0],
+			sw = w.innerWidth || e.clientWidth || g.clientWidth,
+			sh = w.innerHeight|| e.clientHeight|| g.clientHeight;
 		(function () {
-			var h = sh;
-			if (nh < nw) {
-				h = h * (sw / (h * ar));
-			} else {
-				h = h * (sw / (h / ar));
+			var h = sh - 50;
+			if (h * ar > sw) {
+				h = sw / ar;
 			}
 			item.css({
 				width: h * ar,
@@ -48,11 +51,15 @@ $(function () {
 			img = $('<div class="viewbox"><img class="viewer" src="' + url + '"></img></div>');
 			img.find('img').one('load', function () {
 				resize(container);
+				resizer = function () {
+					resize(container);
+				};
 			});
 			container.html(img);
 			show();
 		} else {
 			container.load(url, function () {
+				window.scrollTo(0,0);
 				show();
 			});
 		}
@@ -60,6 +67,12 @@ $(function () {
 	$(window).on("hashchange", function (e) {
 		var url = window.location.hash.substr(1);
 		load(url);
+		e.preventDefault();
 	});
 	load(window.location.hash.substr(1));
+	window.addEventListener('resize', function load() {
+		if (resizer) {
+			resizer();
+		}
+	});
 });

@@ -12,7 +12,7 @@ title: Sonja Sandström
 </div>
 <div class="content">
 	<ul class="cards">
-	{% for card in site.data.withoutvideo %}
+	{% for card in site.data.cards %}
 		<li>
 			{% if card.type == "page" %}
 				<div class="card page">
@@ -30,8 +30,7 @@ title: Sonja Sandström
 				</div>
 			{% endif %}
 			{% if card.type == "vimeo" %}
-				<div class="card vimeo" >
-					<iframe src="//player.vimeo.com/video/{{ card.vimeo }}" width="200" height="133" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+				<div class="card vimeo" data-src="//player.vimeo.com/video/{{ card.vimeo }}" >
 				</div>
 			{% endif %}
 		</li>
