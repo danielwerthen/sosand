@@ -4,7 +4,7 @@ Portfolio
 Configuration
 -------
 
-The content is defined and structured in the file "_data/cards.yml". In this file there are three types of cards; vimeo-videos, photos and pages. Each *card* needs a specified `type`-tag as well as some type specific tags.
+The content is defined and structured in the file "_data/cards.yml". In this file there are three types of cards; vimeo-videos, photos and pages. Each *card* needs a specified `type`-tag as well as some type specific tags. The order of the cards is significant and will carry through to the final layout on the rendered page. Top to bottom in the "cards.yml" file, will lead to a left to right and top to bottom placement.
 
 ###Vimeo
 
