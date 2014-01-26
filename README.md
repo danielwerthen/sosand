@@ -23,5 +23,5 @@ the number in a vimeo link such as <http://vimeo.com/82803389>.
 
 The `background`-tag is used to specify the filename of the photo. It is
 important to note that there should be two versions of each photo, one smaller
-one placed in the folder [imgs/thumbs], and the big one placed in the folder
-[imgs].
+one placed in the folder [imgs/thumbs](imgs/thubs), and the big one placed in the folder
+[imgs](imgs).
