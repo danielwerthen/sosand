@@ -32,6 +32,18 @@ font-size: 118%;
 div.page {
 	margin: 0 auto;
 }
+
+div#display .page {
+	background: white;
+	z-index: 1000;
+	position: absolute;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	left: 10%;
+	right: 10%;
+	padding: 44px;
+}
 @media screen and (max-width:767px) {
 	body {
 		font: 1.2rem/1.9em  Lucida Grande;

@@ -18,7 +18,6 @@ div.loader {
 }
 
 div.loader.hide {
-	-webkit-transition: opacity 1s ease-out;
 	opacity: 0;
 	overflow: hidden;
 	height: 0;
@@ -33,12 +32,12 @@ div.loader h1 {
 }
 
 div.content {
-	opacity: 0;
+	z-index: -1;
 	pointer-events: none;
 }
 
 div.content.show {
-	opacity: 1;
+	z-index: 1;
 	pointer-events: inherit;
 }
 
@@ -66,6 +65,7 @@ div.viewbox .boxitem {
    position: absolute;
    top: 50%;
    width: 700px; 
+	z-index: 1000;
 }
 
 div.viewbox img {
@@ -73,23 +73,6 @@ div.viewbox img {
 	height: 100%;
 }
 
-div.viewbox a {
-	top: 0px;
-	opacity: 0;
-	background: red;
-	width: 50%;
-	height: 100%;
-	z-index: 10000;
-	position: fixed;
-}
-
-div.viewbox a.prev {
-	left: 0px;
-}
-
-div.viewbox a.next {
-	right: 0px;
-}
 
 .absolute {
 	position: absolute;
@@ -111,31 +94,50 @@ div#display {
 	z-index: -999;
 	padding: 0px;
 	margin: 0px;
-	background: white;
 	opacity: 0;
-	-webkit-transition: opacity 1s ease-out;
+	height: 100%;
+	width: 100%;
+	position: relative;
 }
 
+div#display.fixed {
+	position: fixed;
+}
+
+
 div#display.show {
-	height: 100%;
 	z-index: 999;
-	-webkit-transition: opacity 1s ease-out;
 	opacity: 1;
 }
 
 div#display .container {
-	padding-top: 50px;
+	padding-top: 10px;
 }
 
 div#display a.back {
-	top: 0px;
-	position: fixed;
-	height: 50px;
-	width: 100%;
-	background: white;
-	color: black;
+	height: 44px;
+	width: 45px;
+	background: #111;
+	color: #BBB;
 	text-align: center;
 	text-decoration: none;
+	z-index: 999;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	font-weigth: bold;
+	font-family: sans-serif;
+}
+
+div#display .backdrop {
+	height: 100%;
+	width: 100%;
+	background: black;
+	opacity: 0.66;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+
 }
 
 div#display img.viewer {
@@ -145,12 +147,14 @@ div#display img.viewer {
 
 div#display .viewbox {
 	height: 700px;
-	left: 50%;
 	margin-top: -350px;
 	margin-left: -350px;
-	position: fixed;
-	top: 50%;
 	width: 700px;
+	z-index: 999;
+	opacity: 1;
+	position: absolute;
+	top: 50%;
+	left: 50%;
 }
 
 div.card.vimeo {

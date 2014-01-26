@@ -16,14 +16,14 @@ $(function () {
 			sw = w.innerWidth || e.clientWidth || g.clientWidth,
 			sh = w.innerHeight|| e.clientHeight|| g.clientHeight;
 		(function () {
-			var h = sh - 50;
+			var h = sh - 10;
 			if (h * ar > sw) {
 				h = sw / ar;
 			}
 			item.css({
 				width: h * ar,
 				height: h,
-				'margin-top': -(h) / 2 + 25,
+				'margin-top': -(h) / 2 + 5,
 				'margin-left': -((h * ar) / 2)
 			});
 		})();
@@ -47,8 +47,9 @@ $(function () {
 			return;
 		}
 		ext = url.substring(url.lastIndexOf(".")+1);
+		display.removeClass('fixed');
 		if (imgs.indexOf(ext) > -1) {
-			img = $('<div class="viewbox"><img class="viewer" src="' + url + '"></img></div>');
+			img = $('<div class="viewbox"><a class="back" href="#">X</a><img class="viewer" src="' + url + '"></img></div>');
 			img.find('img').one('load', function () {
 				resize(container);
 				resizer = function () {
@@ -56,9 +57,11 @@ $(function () {
 				};
 			});
 			container.html(img);
+			display.addClass('fixed');
 			show();
 		} else {
 			container.load(url, function () {
+				container.find('.page').prepend('<a class="back" href="#">X</a>');
 				window.scrollTo(0,0);
 				show();
 			});
