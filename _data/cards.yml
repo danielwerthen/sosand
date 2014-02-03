@@ -12,10 +12,6 @@
   type: page
   background: diabild.gif
 
-- name: hej
-  background: hej.jpg
-  type: photo
-
 - name: Video 1
   vimeo: 82803389
   type: vimeo
