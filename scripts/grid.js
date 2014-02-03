@@ -49,7 +49,7 @@
 			width = 200,
 			screenw = $(window).width(),
 			columns = Math.floor(screenw / width);
-		columns = columns > 4 ? 4 : columns;
+		columns = columns > 3 ? 3 : columns;
 		width = Math.floor(screenw / columns);
 		cards.addClass('absolute');
 		var it = iterator(columns),
