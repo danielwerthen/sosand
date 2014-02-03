@@ -50,3 +50,8 @@ should be placed in the "/imgs/thumbs" folder.
 
 The page file itself can leverage markdown syntax for formatting. For reference,
 checkout this [guide](http://daringfireball.net/projects/markdown/syntax).
+
+
+Merge upstream changes
+
+`git merge upstream/gh-pages`
