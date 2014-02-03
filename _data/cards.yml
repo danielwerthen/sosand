@@ -1,16 +1,16 @@
 - name: bio 
-  background: red-dragon.jpg
+  background: titel1.jpg
   type: page
 
 - name: cv
   display: CV länk
   type: page
-  background: diabild.gif
+  background: titel 2.jpg
 
 - name: contact
   display: Contact
   type: page
-  background: diabild.gif
+  background: titel3.jpg
 
 - name: Video 1
   vimeo: 82803389
