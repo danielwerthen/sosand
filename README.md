@@ -53,5 +53,7 @@ checkout this [guide](http://daringfireball.net/projects/markdown/syntax).
 
 
 Merge upstream changes
+======================
 
 `git merge upstream/gh-pages`
+http://sonjasandstrom.github.io/sosand/
