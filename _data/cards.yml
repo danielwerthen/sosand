@@ -10,7 +10,7 @@
 - name: contact
   display: Contact
   type: page
-  background: titel3.jpg
+  background: bakgrund3.jpg
 
 - name: Video 1
   vimeo: 82803389
