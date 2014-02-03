@@ -5,14 +5,21 @@ title: Sonja Sandström
 <div class="loader">
 	<img src="imgs/red-dragon.jpg" alt="Loading site, place holder" />
 </div>
+<div id="display">
+	<div class="backdrop">
+	</div>
+	<div class="container">
+	</div>
+	
+</div>
 <div class="content">
 	<ul class="cards">
 	{% for card in site.data.cards %}
 		<li>
 			{% if card.type == "page" %}
 				<div class="card page">
-					<a href="pages/{{ card.name }}.html">
-						<img src="imgs/{{ card.background }}" alt="{{ card.name }}" />
+					<a href="#pages/{{ card.name }}.html">
+						<img src="imgs/thumbs/{{ card.background }}" alt="{{ card.name }}" />
 						<p>
 							{{ card.display }}
 						</p>
@@ -20,13 +27,12 @@ title: Sonja Sandström
 				</div>
 			{% endif %}
 			{% if card.type == "photo" %}
-			<div class="card photo" data-link="images/#closeup-{{ card.name }}" >
+			<div class="card photo" data-link="#imgs/{{ card.background }}" >
 					<img src="imgs/thumbs/{{ card.background }}" alt="{{ card.name }}" />
 				</div>
 			{% endif %}
 			{% if card.type == "vimeo" %}
-				<div class="card vimeo" >
-					<iframe src="//player.vimeo.com/video/{{ card.vimeo }}" width="200" height="133" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+				<div class="card vimeo" data-src="//player.vimeo.com/video/{{ card.vimeo }}" >
 				</div>
 			{% endif %}
 		</li>
