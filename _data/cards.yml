@@ -5,7 +5,7 @@
 - name: cv
   display: 
   type: page
-  background: cvbild2.jpg
+  background: cvbild3.jpg
 
 - name: contact
   display: 
