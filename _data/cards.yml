@@ -1,11 +1,11 @@
 - name: bio 
-  background: TITEL2.jpg
+  background: titelbild.jpg
   type: page
 
 - name: cv
   display: 
   type: page
-  background: cv2.jpg
+  background: cvbild.jpg
 
 - name: contact
   display: 
