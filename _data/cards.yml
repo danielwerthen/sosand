@@ -63,14 +63,15 @@
 - name: Drake
   background: drake.jpg
   type: photo
+    
+- name: Volt
+  background: volt.jpg
+  type: photo
   
 - name: Tvätt
   background: tvatt.jpg
   type: photo
-  
-- name: Volt
-  background: volt.jpg
-  type: photo
+
   
 
 
