@@ -3,9 +3,9 @@
   type: page
 
 - name: cv
-  display: CV länk
+  display: 
   type: page
-  background: titel 2.jpg
+  background: cv.jpg
 
 - name: contact
   display: Contact
