@@ -40,9 +40,9 @@
   vimeo: 74425509 
   type: vimeo
 
-- name: Video 1
-  vimeo: 66622448 
-  type: vimeo
+- name: Ropa så ingen hör 1 
+  background: ropa1.jpg
+  type: photo
 
 - name: Dimma
   background: dimma.jpg
@@ -63,10 +63,10 @@
 - name: Volt
   background: volt.jpg
   type: photo
-
-- name: Ropa så ingen hör 1 
-  background: ropa1.jpg
-  type: photo
+  
+- name: Video 1
+  vimeo: 66622448 
+  type: vimeo
 
 - name: Tvätt
   background: tvatt.jpg
