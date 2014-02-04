@@ -23,13 +23,13 @@
 - name: Ropa så ingen hör 2
   background: ropa2.jpg
   type: photo
-
-- name: Video 1
-  vimeo: 82803389
-  type: vimeo
   
 - name: Video 1
   vimeo: 74381844 
+  type: vimeo
+
+- name: Video 1
+  vimeo: 82803389
   type: vimeo
   
 - name: Video 1
