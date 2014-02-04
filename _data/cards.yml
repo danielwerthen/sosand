@@ -43,10 +43,10 @@
 - name: Ropa så ingen hör 1 
   background: ropa1.jpg
   type: photo
-  
-- name: Drake
-  background: drake.jpg
-  type: photo
+
+- name: Video 1
+  vimeo: 66622448 
+  type: vimeo  
 
 - name: Dimma
   background: dimma.jpg
@@ -60,9 +60,9 @@
   vimeo: 74381844 
   type: vimeo
 
-- name: Video 1
-  vimeo: 66622448 
-  type: vimeo  
+- name: Drake
+  background: drake.jpg
+  type: photo
   
 - name: Volt
   background: volt.jpg
