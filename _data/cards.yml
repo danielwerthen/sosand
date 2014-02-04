@@ -60,7 +60,7 @@
   background: korea.jpg
   type: photo
   
-  - name: Volt
+- name: Volt
   background: volt.jpg
   type: photo
 
