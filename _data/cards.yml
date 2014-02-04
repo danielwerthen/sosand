@@ -59,15 +59,15 @@
 - name: Korea
   background: korea.jpg
   type: photo
+
+- name: Video 1
+  vimeo: 66622448 
+  type: vimeo  
   
 - name: Volt
   background: volt.jpg
   type: photo
   
-- name: Video 1
-  vimeo: 66622448 
-  type: vimeo
-
 - name: Tvätt
   background: tvatt.jpg
   type: photo
