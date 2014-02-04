@@ -19,7 +19,11 @@
 - name: Video 1
   vimeo: 82803389
   type: vimeo
-
+  
+- name: Ropa så ingen hör 2
+  background: ropa2.jpg
+  type: photo
+  
 - name: Video 1
   vimeo: 74390340
   type: vimeo
@@ -58,10 +62,6 @@
 
 - name: Ropa så ingen hör 1 
   background: ropa1.jpg
-  type: photo
-
-- name: Ropa så ingen hör 2
-  background: ropa2.jpg
   type: photo
 
 - name: Tvätt
