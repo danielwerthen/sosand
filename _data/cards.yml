@@ -43,13 +43,13 @@
 - name: Ropa så ingen hör 1 
   background: ropa1.jpg
   type: photo
+  
+- name: Drake
+  background: drake.jpg
+  type: photo
 
 - name: Dimma
   background: dimma.jpg
-  type: photo
-
-- name: Drake
-  background: drake.jpg
   type: photo
 
 - name: Video 1
