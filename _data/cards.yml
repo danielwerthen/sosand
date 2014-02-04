@@ -11,6 +11,10 @@
   display: 
   type: page
   background: contact.jpg
+  
+- name: Volt
+  background: volt.jpg
+  type: photo
 
 - name: Video 1
   vimeo: 82803389
@@ -68,6 +72,4 @@
   background: valp.jpg
   type: photo
 
-- name: Volt
-  background: volt.jpg
-  type: photo
+
