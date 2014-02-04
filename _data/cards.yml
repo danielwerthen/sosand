@@ -32,9 +32,9 @@
   vimeo: 82803389
   type: vimeo
   
-- name: Video 1
-  vimeo: 74390340
-  type: vimeo
+- name: Hundgård
+  background: hundgård.jpg
+  type: photo
 
 - name: Video 1
   vimeo: 74425509 
@@ -52,9 +52,9 @@
   background: drake.jpg
   type: photo
 
-- name: Hundgård
-  background: hundgård.jpg
-  type: photo
+- name: Video 1
+  vimeo: 74390340
+  type: vimeo
       
 - name: Korea
   background: korea.jpg
