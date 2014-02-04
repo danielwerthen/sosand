@@ -8,9 +8,9 @@
   background: cv.jpg
 
 - name: contact
-  display: Contact
+  display: 
   type: page
-  background: bakgrund3.jpg
+  background: contact.jpg
 
 - name: Video 1
   vimeo: 82803389
