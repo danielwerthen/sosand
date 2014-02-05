@@ -76,6 +76,10 @@
   background: tvatt.jpg
   type: photo
 
+- name: man
+  background: man.jpg
+  type: photo
+
 
 
 
