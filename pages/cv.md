@@ -5,13 +5,13 @@ title: Sonja Sandström - CV
 
 # [Sonja Sandström](../)
 
-## Utbildning
+## Education
  
 Kulturama Vux - Film 2012-2013  
 Södertörns högskola - Ljud & Rörlig bild  2010  
 Wendela Hebbegymnasiet - Samhälle Media
 
-## Fiktion
+## Fiction
  
 Antimobbningsfilm [Varför just jag](http://www.youtube.com/watch?v=fNgAy_tyBho) - 2013  
 Produktionsbolag: ErFilm  
@@ -35,7 +35,7 @@ Kortfilm: [Otto mot tiden](https://vimeo.com/73634510) - 2013
 Position: B-foto   
 Kamera: Canon 5d    
 
-## Musikvideo
+## Music videos
 
 [Timbuktu och Kartellen - Svarta Duvor & Vissna Liljor](http://vimeo.com/82803389) - 2013  
 Produktionsbolag: Concrete Steppa Pictures  
