@@ -63,6 +63,10 @@
 - name: Drake
   background: drake.jpg
   type: photo  
+  
+- name: Porträtt 
+  background: Porträtt.jpg
+  type: photo
     
 - name: Volt
   background: volt.jpg
@@ -72,10 +76,7 @@
   background: tvatt.jpg
   type: photo
 
-- name: Man 
-  background: Porträtt.jpg
-  type: photo
-  
+
 
 
 
