@@ -60,8 +60,8 @@
   vimeo: 74381844 
   type: vimeo
   
-- name: portratt 
-  background: portratt.jpg
+- name: Tvätt
+  background: tvatt.jpg
   type: photo  
   
 - name: Drake
@@ -72,12 +72,12 @@
   background: volt.jpg
   type: photo
   
-- name: Tvätt
-  background: tvatt.jpg
-  type: photo
+- name: portratt 
+  background: portratt.jpg
+  type: photo  
 
-- name: man
-  background: man.jpg
+- name: theman
+  background: theman.jpg
   type: photo
 
 
