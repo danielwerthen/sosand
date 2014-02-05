@@ -62,15 +62,15 @@
   
 - name: Tvätt
   background: tvatt.jpg
+  type: photo 
+  
+- name: Dimma
+  background: dimma.jpg
   type: photo  
   
 - name: Drake
   background: drake.jpg
   type: photo  
-    
-- name: Dimma
-  background: dimma.jpg
-  type: photo
   
 - name: portratt 
   background: portratt.jpg
