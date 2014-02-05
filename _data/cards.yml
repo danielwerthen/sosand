@@ -55,14 +55,14 @@
 - name: Video 1
   vimeo: 74390340
   type: vimeo
-  
-- name: Drake
-  background: drake.jpg
-  type: photo
       
 - name: Video 1
   vimeo: 74381844 
   type: vimeo
+  
+- name: Drake
+  background: drake.jpg
+  type: photo  
     
 - name: Volt
   background: volt.jpg
