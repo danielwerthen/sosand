@@ -48,8 +48,8 @@
   vimeo: 66622448 
   type: vimeo  
 
-- name: Dimma
-  background: dimma.jpg
+- name: Volt
+  background: volt.jpg
   type: photo
 
 - name: Video 1
@@ -68,8 +68,8 @@
   background: drake.jpg
   type: photo  
     
-- name: Volt
-  background: volt.jpg
+- name: Dimma
+  background: dimma.jpg
   type: photo
   
 - name: portratt 
