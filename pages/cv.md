@@ -2,7 +2,6 @@
 layout: pages
 title: Sonja Sandström - CV
 ---
-Phone +46 (0) 763 16 75 70
 
 
 # [Sonja Sandström](../)
