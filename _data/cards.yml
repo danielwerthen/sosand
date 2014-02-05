@@ -60,17 +60,17 @@
   vimeo: 74381844 
   type: vimeo
   
-- name: portratt 
-  background: portratt.jpg
+- name: Drake
+  background: drake.jpg
   type: photo   
   
 - name: Dimma
   background: dimma.jpg
   type: photo  
   
-- name: Drake
-  background: drake.jpg
-  type: photo  
+- name: portratt 
+  background: portratt.jpg
+  type: photo   
   
 - name: Tvätt
   background: tvatt.jpg
