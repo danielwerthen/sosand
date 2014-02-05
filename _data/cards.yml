@@ -60,13 +60,13 @@
   vimeo: 74381844 
   type: vimeo
   
+- name: Porträtt 
+  background: Porträtt.jpg
+  type: photo  
+  
 - name: Drake
   background: drake.jpg
   type: photo  
-  
-- name: Porträtt 
-  background: Porträtt.jpg
-  type: photo
     
 - name: Volt
   background: volt.jpg
