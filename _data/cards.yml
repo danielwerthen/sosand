@@ -72,8 +72,9 @@
   background: portratt.jpg
   type: photo   
   
-
-
+- name: 
+  background: portt.jpg
+  type: photo  
 
 - name: theman
   background: theman.jpg
