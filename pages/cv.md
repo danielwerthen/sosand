@@ -34,11 +34,6 @@ Position: Video-assistent
 Kortfilm: [Otto mot tiden](https://vimeo.com/73634510) - 2013
 Position: B-foto
 Kamera: Canon 5d 
- 
-## Reklamfilm
- 
-Aquaria vattenmuseum - 2013  
-Position: Elassistent
 
 ## Musikvideo
 
@@ -50,8 +45,22 @@ Kamera: Red Epic
 [Ellda (med Mindfellaz) - Det gick ifrån](http://vimeo.com/74381844) - 2013  
 Position: A-foto, Elektiker, Redigering  
 Kamera: Canon 5d mark II  
+
+## Trailers / Promotion
  
-## Shower
+[Joe Labero iInferno](http://www.youtube.com/watch?v=Tngkm5gmyVg) - 2013  
+Position: B-foto, fotograf  
+Kamera: Canon c300  
+ 
+[Cirkus Cirkörs - trailer Knitting peace](http://vimeo.com/66622448) - 2013  
+Produktionsbolag: Stockholm Media House  
+Position: B-foto  
+Kamera: Red Epic  
+ 
+Aquaria vattenmuseum - 2013  
+Position: Elassistent
+ 
+## Shows
 
 Dansbandet Mannerz Live-framträdande
 Produktionsbolag: Cinemavision 
@@ -66,24 +75,17 @@ Billie Holliday - En musikalshow av Petra Kvist - 2012
 Position: A-foto  
 Kamera: Canon 7d  
  
-## Trailers
- 
-[Joe Labero iInferno](http://www.youtube.com/watch?v=Tngkm5gmyVg) - 2013  
-Position: B-foto, fotograf  
-Kamera: Canon c300  
- 
-[Cirkus Cirkörs - trailer Knitting peace](http://vimeo.com/66622448) - 2013  
-Produktionsbolag: Stockholm Media House  
-Position: B-foto  
-Kamera: Red Epic  
- 
-## Dokumentärfilm
+## Documentary film
  
 Chords (i produktion) - 2013-2014  
 En musikdokumentär om den Svenska hip hop artisten Chords,  
-intervju med Budo, Timbuktu, Organismen mfl.  
+intervju med Budo, Timbuktu, Organismen, Movitz! mfl.  
 Fotograf  
  
 Villa äntligen (i produktion) - 2013-2014  
 Ett energihusbygge.  
 Position: Fotograf och redigering  
+
+Krig i norrland - 2011
+Produktionsbolag: Fango
+Position: Fotograf
