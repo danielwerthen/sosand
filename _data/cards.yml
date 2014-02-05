@@ -72,6 +72,9 @@
   background: tvatt.jpg
   type: photo
 
+- name: Man 
+  background: Porträtt.jpg
+  type: photo
   
 
 
