@@ -31,9 +31,9 @@ Novellfilm: Vännerna - 2013
 Produktionsbolag: Bob film  
 Position: Video-assistent  
 
-Kortfilm: [Otto mot tiden](https://vimeo.com/73634510) - 2013
-Position: B-foto
-Kamera: Canon 5d 
+Kortfilm: [Otto mot tiden](https://vimeo.com/73634510) - 2013   
+Position: B-foto   
+Kamera: Canon 5d    
 
 ## Musikvideo
 
@@ -62,9 +62,9 @@ Position: Elassistent
  
 ## Shows
 
-Dansbandet Mannerz Live-framträdande
-Produktionsbolag: Cinemavision 
-Position: A-foto
+Dansbandet Mannerz Live-framträdande   
+Produktionsbolag: Cinemavision   
+Position: A-foto   
  
 [Circus Cirkör Knitting peace](http://vimeo.com/66622448) - 2013  
 Produktionsbolag: Stockholm Media House  
@@ -86,6 +86,6 @@ Villa äntligen (i produktion) - 2013-2014
 Ett energihusbygge.  
 Position: Fotograf och redigering  
 
-Krig i norrland - 2011
-Produktionsbolag: Fango
-Position: Fotograf
+Krig i norrland - 2011   
+Produktionsbolag: Fango   
+Position: Fotograf   
