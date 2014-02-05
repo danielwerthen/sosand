@@ -7,10 +7,12 @@ title: Sonja Sandström - Bio
 
 ## Biografi
 
-Sonja är en filmfotograf från Stockholm. Hon har arbetat med flera stora namn
-som Joe Labero, Timbuktu, Kartellen och Cirkus Cirkör och har erfarenhet från
-allt mellan inspelning av liveshower, musikvideor och spelfilm mm. 
+Sonja är en filmfotograf från Stockholm som har arbetat med flera stora namn
+som Timbuktu, Joe Labero och Cirkus Cirkör. Hon tar sig an alla slags uppdrag, 
+med stora kunskaper i redigering, ljusättning och foto får hon ut det yttersta 
+i sitt arbete. Gäller det en större produktion sköter hon allt från möten och 
+plannering till att få ihop ett färdigt team - till färdig produktion. 
  
 Utöver a-foto så assisterar hon som b, c foto och elektriker. 
   
-Du är välkommen att kontakta henne på [mail](mailto:sonjasandstrom@gmail.com) eller telefon.
+Gäller det ett filmprojekt, frilans eller övriga frågor är välkommen att kontakta henne på [mail](mailto:sonjasandstrom@gmail.com) eller telefon.
