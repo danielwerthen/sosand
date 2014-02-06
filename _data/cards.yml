@@ -11,22 +11,22 @@
   display: 
   type: page
   background: contact.jpg
-  
+
 - name: Video 1
   vimeo: 83584550
   type: vimeo  
-  
+
 - name: Video 1
   vimeo: 82803389
   type: vimeo  
-  
-- name: Ropa så ingen hör 2
-  background: ropa2.jpg
-  type: photo  
-  
+
 - name: Valp
   background: valp.jpg
   type: photo
+
+- name: Ropa så ingen hör 2
+  background: ropa2.jpg
+  type: photo   
 
 - name: Korea
   background: korea.jpg
@@ -59,19 +59,19 @@
 - name: theman
   background: theman.jpg
   type: photo
-  
+
 - name: Ropa så ingen hör 1 
   background: ropa1.jpg
   type: photo
-  
+
 - name: Drake
   background: drake.jpg
   type: photo    
-  
+
 - name: Video 1
   vimeo: 74381844 
   type: vimeo
-  
+
 - name: portratt 
   background: portratt.jpg
   type: photo   
