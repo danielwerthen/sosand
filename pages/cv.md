@@ -16,7 +16,7 @@ Wendela Hebbegymnasiet - Samhälle Media
  
 Antimobbningsfilm [Varför just jag](http://www.youtube.com/watch?v=fNgAy_tyBho) - 2013  
 Produktionsbolag: ErFilm  
-Position: b-foto  
+Position: B-foto  
  
 Kortfilm: Nature - 2013  
 Produktionsbolag: Lillemor Film  
@@ -26,10 +26,10 @@ Kamera: Canon c100
 Novellfilm: Ropa så att ingen hör - 2013  
 Skådespelare: Siham Shurafa, Rafael Edholm  
 Position: A-foto  
-Kamera: Canon 5d mark II  
+Kamera: Canon 5d 
  
 Novellfilm: Vännerna - 2013  
-Produktionsbolag: Bob film  
+Produktionsbolag: Bob Film  
 Position: Video-assistent  
 
 Kortfilm: [Otto mot tiden](https://vimeo.com/73634510) - 2013   
@@ -50,7 +50,7 @@ Kamera: Canon 5d mark II
 ## Trailers / Promotion
  
 [Joe Labero iInferno](http://www.youtube.com/watch?v=Tngkm5gmyVg) - 2013  
-Position: B-foto, fotograf  
+Position: B-foto, Fotograf  
 Kamera: Canon c300  
  
 [Cirkus Cirkörs - trailer Knitting peace](http://vimeo.com/66622448) - 2013  
