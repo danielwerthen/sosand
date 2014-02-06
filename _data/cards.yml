@@ -26,15 +26,15 @@
 
 - name: Ropa så ingen hör 1 
   background: ropa1.jpg
-  type: photo   
+  type: photo
 
 - name: Video 1
   vimeo: 66622448 
-  type: vimeo  
+  type: vimeo
 
 - name: Video 1
   vimeo: 74381844 
-  type: vimeo 
+  type: vimeo
 
 - name: Video 1
   vimeo: 74425509 
@@ -46,15 +46,15 @@
 
 - name: Korea
   background: korea.jpg
-  type: photo 
+  type: photo
 
 - name: Brygga
   background: brygga.jpg
-  type: photo  
+  type: photo
 
 - name: Video 1
   vimeo: 74390340
-  type: vimeo 
+  type: vimeo
 
 - name: theman
   background: theman.jpg
@@ -62,7 +62,7 @@
 
 - name: Ropa så ingen hör 2
   background: ropa2.jpg
-  type: photo  
+  type: photo
 
 - name: Drake
   background: drake.jpg
@@ -70,14 +70,14 @@
 
 - name: Volt
   background: volt.jpg
-  type: photo   
+  type: photo
 
-- name: portratt 
+- name: portratt
   background: portratt.jpg
-  type: photo   
+  type: photo
 
 - name: Tvätt
   background: tvatt.jpg
-  type: photo   
+  type: photo
  
 
