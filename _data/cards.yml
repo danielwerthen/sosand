@@ -73,8 +73,8 @@
   type: photo   
   
 - name: 
-  background: portt.jpg
-  type: photo  
+  background: 
+  type:   
 
 - name: theman
   background: theman.jpg
