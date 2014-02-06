@@ -32,9 +32,9 @@
   background: korea.jpg
   type: photo 
 
-- name: Volt
-  background: volt.jpg
-  type: photo  
+- name: Video 1
+  vimeo: 74381844 
+  type: vimeo 
 
 - name: Video 1
   vimeo: 74425509 
@@ -66,11 +66,11 @@
 
 - name: Drake
   background: drake.jpg
-  type: photo    
+  type: photo 
 
-- name: Video 1
-  vimeo: 74381844 
-  type: vimeo
+- name: Volt
+  background: volt.jpg
+  type: photo   
 
 - name: portratt 
   background: portratt.jpg
