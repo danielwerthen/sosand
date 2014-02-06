@@ -28,9 +28,9 @@
   background: ropa1.jpg
   type: photo   
 
-- name: Korea
-  background: korea.jpg
-  type: photo 
+- name: Video 1
+  vimeo: 66622448 
+  type: vimeo  
 
 - name: Video 1
   vimeo: 74381844 
@@ -44,10 +44,10 @@
   background: hundgård.jpg
   type: photo
 
-- name: Video 1
-  vimeo: 66622448 
-  type: vimeo  
-  
+- name: Korea
+  background: korea.jpg
+  type: photo 
+
 - name: Brygga
   background: brygga.jpg
   type: photo  
