@@ -34,7 +34,7 @@ div.page {
 }
 
 div#display .page {
-	background: black;
+	background: white;
 	z-index: 1000;
 	position: absolute;
 	-webkit-border-radius: 5px;
