@@ -3,41 +3,41 @@
   type: page
 
 - name: cv
-  display: 
+  display:
   type: page
   background: cvbild4.jpg
 
 - name: contact
-  display: 
+  display:
   type: page
   background: contact.jpg
 
 - name: Video 1
   vimeo: 83584550
-  type: vimeo  
+  type: vimeo
 
 - name: Video 1
   vimeo: 82803389
-  type: vimeo  
+  type: vimeo
 
 - name: Valp
   background: valp.jpg
   type: photo
 
-- name: Ropa så ingen hör 1 
+- name: Ropa så ingen hör 1
   background: ropa1.jpg
   type: photo
 
 - name: Video 1
-  vimeo: 66622448 
+  vimeo: 66622448
   type: vimeo
 
 - name: Video 1
-  vimeo: 74381844 
+  vimeo: 74381844
   type: vimeo
 
 - name: Video 1
-  vimeo: 74425509 
+  vimeo: 74425509
   type: vimeo
 
 - name: Hund
@@ -66,7 +66,7 @@
 
 - name: Drake
   background: drake.jpg
-  type: photo 
+  type: photo
 
 - name: Volt
   background: volt.jpg
@@ -79,5 +79,3 @@
 - name: Tvätt
   background: tvatt.jpg
   type: photo
- 
-
