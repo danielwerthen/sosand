@@ -83,10 +83,10 @@ En musikdokumentär om den Svenska hip hop artisten Chords,
 intervju med Budo, Timbuktu, Organismen, Movitz! mfl.  
 Fotograf  
  
-Villa äntligen (i produktion) - 2013-2014  
+Villa Äntligen (i produktion) - 2013-2014  
 Ett energihusbygge.  
 Position: Fotograf och redigering  
 
-Krig i norrland - 2011   
+Krig I Norrland - 2011   
 Produktionsbolag: Fango   
 Position: Fotograf   
