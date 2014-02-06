@@ -12,80 +12,72 @@
   type: page
   background: contact.jpg
   
-- name: Valp
-  background: valp.jpg
-  type: photo
-
 - name: Video 1
   vimeo: 83584550
-  type: vimeo
+  type: vimeo  
+  
+- name: Video 1
+  vimeo: 82803389
+  type: vimeo  
   
 - name: Ropa så ingen hör 2
   background: ropa2.jpg
-  type: photo
-  
-- name: Korea
-  background: korea.jpg
   type: photo  
-
-- name: Video 1
-  vimeo: 82803389
-  type: vimeo
   
-- name: Hundgård
-  background: hundgård.jpg
+- name: Valp
+  background: valp.jpg
   type: photo
-
-- name: Video 1
-  vimeo: 74425509 
-  type: vimeo
 
 - name: Ropa så ingen hör 1 
   background: ropa1.jpg
   type: photo
 
-- name: Video 1
-  vimeo: 66622448 
-  type: vimeo  
-
 - name: Volt
   background: volt.jpg
+  type: photo  
+
+- name: Video 1
+  vimeo: 74425509 
+  type: vimeo
+
+- name: Hundgård
+  background: hundgård.jpg
   type: photo
 
 - name: Video 1
-  vimeo: 74390340
-  type: vimeo
-      
-- name: Video 1
-  vimeo: 74381844 
-  type: vimeo
-  
-- name: Drake
-  background: drake.jpg
-  type: photo   
+  vimeo: 66622448 
+  type: vimeo  
   
 - name: Brygga
   background: brygga.jpg
   type: photo  
-  
-- name: portratt 
-  background: portratt.jpg
-  type: photo   
-  
-- name: 
-  background: 
-  type:   
+
+- name: Korea
+  background: korea.jpg
+  type: photo  
 
 - name: theman
   background: theman.jpg
   type: photo
+  
+- name: Video 1
+  vimeo: 74390340
+  type: vimeo
+  
+- name: Drake
+  background: drake.jpg
+  type: photo    
+
+- name: portratt 
+  background: portratt.jpg
+  type: photo    
+  
+- name: Video 1
+  vimeo: 74381844 
+  type: vimeo
 
 - name: Tvätt
   background: tvatt.jpg
-  type: photo 
-
-
-
-
-
+  type: photo   
+ 
 
