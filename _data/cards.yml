@@ -64,10 +64,10 @@
   background: Dance1.jpg
   type: photo
 
-- name: Drake
-  background: drake.jpg
-  type: photo
-
+- name: Dance7
+  background: Dance7.jpg
+  type: photo 
+  
 - name: Volt
   background: volt.jpg
   type: photo
@@ -96,6 +96,6 @@
   background: Hund.jpg
   type: photo
 
-- name: Dance7
-  background: Dance7.jpg
-  type: photo  
+- name: Drake
+  background: drake.jpg
+  type: photo
