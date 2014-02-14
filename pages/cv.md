@@ -47,7 +47,7 @@ Kamera: Red Epic
 Position: A-foto, Elektiker, Redigering  
 Kamera: Canon 5d mark II  
    
-Robyn & Röyksopp - Sayit   
+Robyn ft Röyksopp - Sayit   
 Produktionsbolag: Strange Cargo   
 Position: Produktions-assistent   
    
