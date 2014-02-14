@@ -40,9 +40,9 @@
   vimeo: 74425509
   type: vimeo
 
-- name: Hund
-  background: Hund.jpg
-  type: photo
+- name: Dance5
+  background: Dance5.jpg
+  type: photo  
 
 - name: Korea
   background: korea.jpg
@@ -92,8 +92,8 @@
   background: Dance3.jpg
   type: photo
 
-- name: Dance5
-  background: Dance5.jpg
+- name: Hund
+  background: Hund.jpg
   type: photo
 
 - name: Dance7
