@@ -55,9 +55,9 @@
 - name: Korea
   background: korea.jpg
   type: photo
-
-- name: Brygga
-  background: brygga.jpg
+  
+- name: Ropa så ingen hör 2
+  background: ropa2.jpg
   type: photo
 
 - name: Ropa så ingen hör 1
@@ -80,12 +80,12 @@
   background: tvatt.jpg
   type: photo
 
-- name: Ropa så ingen hör 2
-  background: ropa2.jpg
-  type: photo
-
 - name: Dance3
   background: Dance3.jpg
+  type: photo
+
+- name: Brygga
+  background: brygga.jpg
   type: photo
 
 - name: Hund
