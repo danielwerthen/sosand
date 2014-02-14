@@ -84,10 +84,6 @@
   background: ropa2.jpg
   type: photo
 
-- name: Dance2
-  background: Dance2.jpg
-  type: photo
-
 - name: Dance3
   background: Dance3.jpg
   type: photo
