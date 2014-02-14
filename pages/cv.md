@@ -46,7 +46,11 @@ Kamera: Red Epic
 [Ellda (med Mindfellaz) - Det gick ifrån](http://vimeo.com/74381844) - 2013  
 Position: A-foto, Elektiker, Redigering  
 Kamera: Canon 5d mark II  
-
+   
+Robyn & Röyksopp - Sayit   
+Produktionsbolag: Strange Cargo   
+Position: Produktions-assistent   
+   
 ## Trailers / Promotion
  
 [Joe Labero iInferno](http://www.youtube.com/watch?v=Tngkm5gmyVg) - 2013  
