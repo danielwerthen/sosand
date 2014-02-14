@@ -47,17 +47,17 @@
 - name: Korea
   background: korea.jpg
   type: photo
-
-- name: Brygga
-  background: brygga.jpg
+  
+- name: theman
+  background: theman.jpg
   type: photo
 
 - name: Video 1
   vimeo: 74390340
   type: vimeo
 
-- name: theman
-  background: theman.jpg
+- name: Brygga
+  background: brygga.jpg
   type: photo
 
 - name: Dance1
