@@ -24,8 +24,8 @@
   background: valp.jpg
   type: photo
 
-- name: Ropa så ingen hör 1
-  background: ropa1.jpg
+- name: Dance1
+  background: Dance1.jpg
   type: photo
 
 - name: Video 1
@@ -60,8 +60,8 @@
   background: brygga.jpg
   type: photo
 
-- name: Dance1
-  background: Dance1.jpg
+- name: Ropa så ingen hör 1
+  background: ropa1.jpg
   type: photo
 
 - name: Dance7
