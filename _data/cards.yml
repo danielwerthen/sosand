@@ -92,16 +92,8 @@
   background: Dance3.jpg
   type: photo
 
-- name: Dance4
-  background: Dance4.jpg
-  type: photo
-
 - name: Dance5
   background: Dance5.jpg
-  type: photo
-
-- name: Dance6
-  background: Dance6.jpg
   type: photo
 
 - name: Dance7
