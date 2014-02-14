@@ -79,3 +79,31 @@
 - name: Tvätt
   background: tvatt.jpg
   type: photo
+
+- name: Dance1
+  background: Dance1.jpg
+  type: photo
+  
+- name: Dance2
+  background: Dance2.jpg
+  type: photo
+  
+- name: Dance3
+  background: Dance3.jpg
+  type: photo
+  
+- name: Dance4
+  background: Dance4.jpg
+  type: photo
+  
+- name: Dance5
+  background: Dance5.jpg
+  type: photo
+  
+- name: Dance6
+  background: Dance6.jpg
+  type: photo
+
+- name: Dance7
+  background: Dance7.jpg
+  type: photo  
