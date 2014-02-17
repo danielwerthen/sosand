@@ -16,3 +16,6 @@ planering till att få ihop ett färdigt team - till färdig produktion.
 Utöver a-foto så assisterar hon som b-, c-foto och elektriker. 
   
 Gäller det ett filmprojekt, frilans eller övriga frågor är välkommen att kontakta henne på [mail](mailto:sonjasandstrom@gmail.com) eller telefon.
+
+
+Godkänd för f-skatt.
