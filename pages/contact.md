@@ -11,6 +11,8 @@ title: Sonja Sandström - Contact
 **Phone** +46 (0) 763 16 75 70  
 **Vimeo** [Sonja Sandström](http://vimeo.com/user8520199)
 
+Bosatt söder om Stockholm   
+
 <div class="fb-follow"
 data-href="https://www.facebook.com/FotografSonjaSandstrom"
 data-colorscheme="light" data-layout="standard" data-show-faces="true"></div>
