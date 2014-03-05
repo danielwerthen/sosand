@@ -84,8 +84,8 @@
   background: Dance3.jpg
   type: photo
 
-- name: Brygga
-  background: brygga.jpg
+- name: sjö
+  background: sjö.png
   type: photo
 
 - name: Hund
