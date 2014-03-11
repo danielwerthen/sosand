@@ -48,17 +48,19 @@ email sandstrom.sonja@gmail.com
 
 Företag: Filmfotograf Sonja Sandström
 
-cell: +46 (0) 76 315 75 70
+Tel: +46 (0) 76 315 75 70
 
-mail: sandstrom.sonja@gmail.com
+Mejl: sandstrom.sonja@gmail.com
 
-hemsida:www.sonjasandstrom.com 
+Hemsida:www.sonjasandstrom.com 
 
-linkedin: se.linkedin.com/pub/sonja-sandström/72/756/24b
+Linkedin: se.linkedin.com/pub/sonja-sandström/72/756/24b
+
+Vimeo: https://vimeo.com/user8520199
 
 Godkänd för f-skatt.
 
- Välkommen!
+Välkommen!
 
 
 
@@ -107,17 +109,19 @@ Sonja Sandstrom
 
 Company: Filmfotograf Sonja Sandström
 
-cell : +46 (0)76 316 75 70
+Cell : +46 (0)76 316 75 70
 
-email : sandstrom.sonja@gmail.com
+E-mail : sandstrom.sonja@gmail.com
 
-website : www.sonjasandstrom.com
+Website : www.sonjasandstrom.com
 
-linkedin : se.linkedin.com/pub/sonja-sandström/72/756/24b
+Linkedin : se.linkedin.com/pub/sonja-sandström/72/756/24b
+
+Vimeo: https://vimeo.com/user8520199
 
 Approved for F- tax.
 
- Welcome!  
+Welcome!  
 
 
 Godkänd för f-skatt.
