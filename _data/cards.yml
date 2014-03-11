@@ -7,7 +7,7 @@
   type: page
   background: cvbild4.jpg
 
-- name: contact1
+- name: contact
   display:
   type: page
   background: contact1.jpg
