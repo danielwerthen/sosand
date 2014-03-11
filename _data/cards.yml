@@ -95,3 +95,7 @@
 - name: Drake
   background: drake.jpg
   type: photo
+  
+- name: Frodo
+  background: Patrik2.jpg
+  type: photo
