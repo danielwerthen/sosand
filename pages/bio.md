@@ -21,7 +21,7 @@ större produktioner och har goda kontakter och samarbeten inom filmvärlden.
 
 A-foto, B-foto, C- foto kunskaper finns.
 
-Vare sig det är ett litet eller stort film/fotoarbete så görs med god kundkontakt och med 
+Vare sig det är ett litet eller stort film/fotoarbete så görs det med god kundkontakt och med 
 prisvänlig prissättning. Vi diskuterar detta i lugn och ro via telefon eller ett möte, sedan får ni 
 som kund i lugn och ro fundera på erbjudandet.
 
@@ -72,7 +72,7 @@ I have education through Kulturamas Film Education in Stockholm and before that 
 Photo / Media orientation . 
 
 I have experience working with many big names like musician Timbuktu, artist Joe Labero ,
-musician Robyn and company Circus Cirkör.
+musician Robyn and commercial film with Circus Cirkör.
 
 I can offer all kinds of film/photojob, both large and small jobs. A-photo; Director of 
 Photography, B-photo; first assistant camera and C-photo; second assistant camera,
@@ -88,17 +88,17 @@ Mission offers:
 
 Music video
 
-commercials
+Commercials
 
-film
+Film
 
-wedding Video
+Wedding Video
 
-event
+Event
 
 Business / conference
 
-potrait
+Potrait
 
 etc.
 
@@ -123,5 +123,3 @@ Approved for F- tax.
 
 Welcome!  
 
-
-Godkänd för f-skatt.
