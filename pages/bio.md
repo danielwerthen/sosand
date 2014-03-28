@@ -9,42 +9,39 @@ title: Sonja Sandström - Bio
 
 Etablerat år 2012 
 
-Mitt namn är Sonja Sandström och är filmfotograf baserad i södra Stockholm och är aktiv 
+Mitt namn är Sonja Sandström och är film/fotograf baserad i södra Stockholm och är aktiv 
 inom fyra inriktningar. Stillbildsfoto, Filmfoto, Redigering och Ljussättning. Jag 
-har god utbildning via Kulturamas erkända filmutbildning och gymnasium med 
+har utbildning via Kulturamas erkända filmutbildning och gymnasium med 
 Foto/Mediainrikntning. Jag har erfarenhet att arbetat med flera stora namn som Timbuktu, Joe 
-Labero, Robyn och Cirkus Cirkör m.fl. Jag tar mig an alla slags uppdrag, både stora och små 
-uppdrag med väl genomfört arbete.
+Labero, Robyn och Cirkus Cirkör m.fl. 
 
-Mitt företag har varit aktivt sedan år 2012, arbetar effektivt med både mindre och 
+Mitt företag har varit aktivt sedan år 2010, arbetar effektivt med både mindre och 
 större produktioner och har goda kontakter och samarbeten inom filmvärlden. 
 
-A-foto, B-foto, C- foto kunskaper finns.
+A-foto, B-foto, C- foto kunskaper.
 
-Vare sig det är ett litet eller stort film/fotoarbete så görs det med god kundkontakt och med 
-prisvänlig prissättning. Vi diskuterar detta i lugn och ro via telefon eller ett möte, sedan får ni 
+Vare sig det är ett litet eller stort film/fotoarbete så görs det med god kundkontakt. Vi diskuterar detta via telefon eller ett möte, sedan får ni 
 som kund i lugn och ro fundera på erbjudandet.
 
-Uppdrags förslag:
-
-Poträtt
-
-Reklamfilm 
-
-Film 
+Föreslagna tjänster:
 
 Musikvideo
 
+Reklamfilm 
+
+Informationsfilm
+
+Poträttfotografering
+
 Bröllopsvideo
 
-Event
+Eventfotograf/eventfilm
 
-Företag/Konferans
+Företag/Konferans-film
 
-m.m
 
-Har du behov av några av mina tjänster så ring och berätta mer på 076-316 75 70, 
-email sandstrom.sonja@gmail.com
+Förfrågan ring: 076-316 75 70, 
+E-mail sandstrom.sonja@gmail.com
 
 Företag: Filmfotograf Sonja Sandström
 
@@ -60,13 +57,9 @@ Vimeo: https://vimeo.com/user8520199
 
 Godkänd för f-skatt.
 
-Välkommen!
 
 
-
-Established in 2012
-
-My name is Sonja Sandström and is a cinematographer based in southern Stockholm and is 
+My name is Sonja Sandström and is a cinematographer/photographer based in southern Stockholm and is 
 active in four specializations. Still Photographer, Film Photography, Editing, and Electrician.
 I have education through Kulturamas Film Education in Stockholm and before that Gymnasium with 
 Photo / Media orientation . 
@@ -78,32 +71,26 @@ I can offer all kinds of film/photojob, both large and small jobs. A-photo; Dire
 Photography, B-photo; first assistant camera and C-photo; second assistant camera,
 Electrician, Production co-ordinator, and production assistant/runner.
 
-My company has been active since 2012 and is working effectively with both
+My company has been active and is working effectively with both
 small and large productions and has good contacts and collaboration in the film world .
 
 Whether it will be a small or big movie/photo work to be done, you will get good customer 
-service and friendly pricing. We can discuss this over the phone and then settle a meeting.
-
-Mission offers:
+service 
 
 Music video
 
 Commercials
 
-Film
-
 Wedding Video
 
-Event
+Event photography
 
-Business / conference
+Business / conference film/photography
 
-Potrait
+Potrait photography
 
-etc.
+Information film
 
-Do you need any of my services so don´t hesitate to call me and I will tell you more on 
-mobile, 076-316 75 70 or email me on sandstrom.sonja @ gmail.com
 
 Sonja Sandstrom
 
@@ -121,5 +108,4 @@ Vimeo: https://vimeo.com/user8520199
 
 Approved for F- tax.
 
-Welcome!  
 
