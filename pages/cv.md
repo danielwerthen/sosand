@@ -94,3 +94,9 @@ Position: Fotograf och redigering
 Krig I Norrland - 2011   
 Produktionsbolag: Fango   
 Position: Fotograf   
+
+Photography:
+
+Eventfotograf 2014
+Microsofts BI event för 
+Arbetsgivare: Onemotion IMC AB
