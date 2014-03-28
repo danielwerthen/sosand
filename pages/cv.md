@@ -97,6 +97,6 @@ Position: Fotograf
 
 Photography:
 
-Eventfotograf 2014
-Microsofts BI event för 
-Arbetsgivare: Onemotion IMC AB
+Eventfotograf 2014   
+Microsofts BI event   
+Arbetsgivare: Onemotion IMC AB   
