@@ -77,6 +77,8 @@ small and large productions and has good contacts and collaboration in the film 
 Whether it will be a small or big movie/photo work to be done, you will get good customer 
 service. 
 
+Project examples:
+
 Music video
 
 Commercials
