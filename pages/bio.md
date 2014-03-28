@@ -49,7 +49,7 @@ Tel: +46 (0) 76 315 75 70
 
 Mejl: sandstrom.sonja@gmail.com
 
-Hemsida:www.sonjasandstrom.com 
+Hemsida: www.sonjasandstrom.com 
 
 Linkedin: se.linkedin.com/pub/sonja-sandström/72/756/24b
 
