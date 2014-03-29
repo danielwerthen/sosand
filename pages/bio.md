@@ -7,7 +7,6 @@ title: Sonja Sandström - Bio
 
 ## Biografi
 
-Etablerat år 2012 
 
 Mitt namn är Sonja Sandström och är film/fotograf baserad i södra Stockholm och är aktiv 
 inom fyra inriktningar. Stillbildsfoto, Filmfoto, Redigering och Ljussättning. Jag 
@@ -55,7 +54,7 @@ Linkedin: se.linkedin.com/pub/sonja-sandström/72/756/24b
 
 Vimeo: https://vimeo.com/user8520199
 
-Godkänd för f-skatt.
+Godkänd för F-skatt.
 
 
 
@@ -108,6 +107,6 @@ Linkedin : se.linkedin.com/pub/sonja-sandström/72/756/24b
 
 Vimeo: https://vimeo.com/user8520199
 
-Approved for F- tax.
+Approved for F-tax.
 
 
