@@ -70,8 +70,7 @@ I can offer all kinds of film/photojob, both large and small jobs. A-photo; Dire
 Photography, B-photo; first assistant camera and C-photo; second assistant camera,
 Electrician, Production co-ordinator, and production assistant/runner.
 
-My company has been active and is working effectively with both
-small and large productions and has good contacts and collaboration in the film world .
+My company has been active since 2010 and has good contacts and collaboration in the film world .
 
 Whether it will be a small or big movie/photo work to be done, you will get good customer 
 service. 
