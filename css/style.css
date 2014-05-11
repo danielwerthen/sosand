@@ -116,8 +116,8 @@ div#display .container {
 }
 
 div#display a.back {
-	height: 44px;
-	width: 45px;
+	height: 30px;
+	width: 30px;
 	background: #111;
 	color: #BBB;
 	text-align: center;
@@ -128,6 +128,7 @@ div#display a.back {
 	right: 0px;
 	font-weigth: bold;
 	font-family: sans-serif;
+	padding-top: 4px;
 }
 
 div#display .backdrop {
