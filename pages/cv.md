@@ -14,11 +14,11 @@ Wendela Hebbegymnasiet - Samhälle Media
 
 ## Fiction
 
-Kortfilm: 10 Minuter Av Frihet -2014
-Produktionsbolag: Populate AB
-Position: A-foto
-Kamera: Blacmagic CC 4k   
- 
+Kortfilm: 10 Minuter Av Frihet -2014   
+Produktionsbolag: Populate AB   
+Position: A-foto   
+Kamera: Blacmagic CC 4k      
+   
 Antimobbningsfilm [Varför just jag](http://www.youtube.com/watch?v=fNgAy_tyBho) - 2013  
 Produktionsbolag: ErFilm  
 Position: B-foto  
@@ -67,10 +67,10 @@ Produktionsbolag: Stockholm Media House
 Position: B-foto  
 Kamera: Red Epic  
  
-Filmning av en konferens åt vattenfall.
-Position: Kameraoperatör
-Produktionsbolag: Populate AB
-Kamera: Blackmagic CC 2k
+Filmning av en konferens åt vattenfall.   
+Position: Kameraoperatör   
+Produktionsbolag: Populate AB   
+Kamera: Blackmagic CC 2k   
  
 ## Shows
 
@@ -108,6 +108,6 @@ Eventfotograf - 2014
 Microsofts BI event   
 Arbetsgivare: Onemotion IMC AB   
 
-Eventfotograf - 2014
-Microsoft Social Summit Event
-Arbetsgivare: Onemotion IMC AB
+Eventfotograf - 2014   
+Microsoft Social Summit Event   
+Arbetsgivare: Onemotion IMC AB   
