@@ -86,19 +86,5 @@
 		});
 	}
 
-	var img = $('div.loader img'),
-		resizeLoader = function () {
-			var win = $(window),
-				ar = img[0].naturalWidth / img[0].naturalHeight,
-				sar = win.width() / win.height();
-			if (sar > ar) {
-				img.width(win.width());
-				img.height('initial');
-			} else {
-				img.width('initial');
-				img.height(win.height());
-			}
-		};
-	resizeLoader();
 
 })();
