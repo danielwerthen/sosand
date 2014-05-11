@@ -96,4 +96,6 @@
   background: drake.jpg
   type: photo
   
-
+  - name: Patrik
+  background: Patrik.jpg
+  type: photo
