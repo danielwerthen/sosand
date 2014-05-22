@@ -41,7 +41,11 @@ Kortfilm: [Otto mot tiden](https://vimeo.com/73634510) - 2013
 Position: B-foto   
 Kamera: Canon 5d    
 
-## Music videos
+## Music videos   
+
+[Love Never Felt So Good - Justin Timberlake & Michael Jackson](https://www.youtube.com/watch?v=oG08ukJPtR8)   
+Produktionsbolag: Another Production   
+Position: Craft   
 
 [Timbuktu och Kartellen - Svarta Duvor & Vissna Liljor](http://vimeo.com/82803389) - 2013  
 Produktionsbolag: Concrete Steppa Pictures  
