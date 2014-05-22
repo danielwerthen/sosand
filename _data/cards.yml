@@ -75,6 +75,10 @@
 - name: Korea 
   background: _MG_7262.jpg
   type: photo
+  
+- name: Water2
+  background: _MG_1028-2.jpg
+  type: photo
 
 - name: View
   background: _MG_0889.jpg
