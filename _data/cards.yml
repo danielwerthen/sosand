@@ -20,14 +20,10 @@
   vimeo: 82803389
   type: vimeo
 
-- name: Dancer
-  background: dancer3.jpg
-  type: photo
-
-- name: V
-  background: v6.jpg
-  type: photo
-
+- name: Video 1
+  vimeo: 74381844
+  type: vimeo
+    
 - name: Video 1
   vimeo: 66622448
   type: vimeo
@@ -40,14 +36,18 @@
   vimeo: 74425509
   type: vimeo
 
+- name: Dancer
+  background: dancer3.jpg
+  type: photo
+
+- name: V
+  background: v6.jpg
+  type: photo
+
 - name: Volt
   background: volt.jpg
-  type: photo  
+  type: photo
 
-- name: Video 1
-  vimeo: 74381844
-  type: vimeo
-  
 - name: V3
   background: v3.jpg
   type: photo
