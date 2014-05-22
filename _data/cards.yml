@@ -40,16 +40,16 @@
   background: dancer3.jpg
   type: photo
 
-- name: V
-  background: v6.jpg
+- name: V3
+  background: v3.jpg
   type: photo
 
 - name: Volt
   background: volt.jpg
   type: photo
-
-- name: V3
-  background: v3.jpg
+  
+- name: V
+  background: v6.jpg
   type: photo
 
 - name: Ropa så att ingen hör
