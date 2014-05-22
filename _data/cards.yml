@@ -21,7 +21,7 @@
   type: vimeo
 
 - name: Dancer
-  background: _MG_9344.jpg
+  background: dancer3.jpg
   type: photo
 
 - name: V
@@ -65,23 +65,23 @@
   type: photo
 
 - name: Water
-  background: _MG_1069.jpg
+  background: vatten.jpg
   type: photo 
   
 - name: Dance
-  background: _MG_8874.jpg
+  background: dancer2.jpg
   type: photo
 
 - name: Korea
-  background: _MG_7262.jpg
+  background: korea.jpg
   type: photo
   
 - name: Water2
-  background: _MG_1028-2.jpg
+  background: vattenfall.jpg
   type: photo
 
 - name: View
-  background: _MG_0889.jpg
+  background: utsikt.jpg
   type: photo
   
 - name: Brygga
