@@ -13,7 +13,12 @@ Södertörns högskola - Ljud & Rörlig bild  2010
 Wendela Hebbegymnasiet - Samhälle Media
 
 ## Fiction
- 
+
+Kortfilm: 10 Minuter Av Frihet -2014   
+Produktionsbolag: Populate AB   
+Position: A-foto   
+Kamera: Blacmagic CC 4k      
+   
 Antimobbningsfilm [Varför just jag](http://www.youtube.com/watch?v=fNgAy_tyBho) - 2013  
 Produktionsbolag: ErFilm  
 Position: B-foto  
@@ -51,7 +56,7 @@ Robyn ft Röyksopp - Sayit
 Produktionsbolag: Strange Cargo   
 Position: Produktions-assistent   
    
-## Trailers / Promotion
+## Trailers / Promotion etc.
  
 [Joe Labero iInferno](http://www.youtube.com/watch?v=Tngkm5gmyVg) - 2013  
 Position: B-foto, Fotograf  
@@ -62,8 +67,10 @@ Produktionsbolag: Stockholm Media House
 Position: B-foto  
 Kamera: Red Epic  
  
-Aquaria vattenmuseum - 2013  
-Position: Elassistent
+Filmning av en konferens åt vattenfall.   
+Position: Kameraoperatör   
+Produktionsbolag: Populate AB   
+Kamera: Blackmagic CC 2k   
  
 ## Shows
 
@@ -95,8 +102,12 @@ Krig I Norrland - 2011
 Produktionsbolag: Fango   
 Position: Fotograf   
 
-Photography:
+## Photography:
 
-Eventfotograf 2014   
+Eventfotograf - 2014   
 Microsofts BI event   
+Arbetsgivare: Onemotion IMC AB   
+
+Eventfotograf - 2014   
+Microsoft Social Summit Event   
 Arbetsgivare: Onemotion IMC AB   
