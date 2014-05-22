@@ -44,8 +44,8 @@
   background: v3.jpg
   type: photo
 
-- name: Volt
-  background: volt.jpg
+- name: Dance
+  background: dancer2.jpg
   type: photo
   
 - name: V
@@ -67,9 +67,9 @@
 - name: Water
   background: vatten.jpg
   type: photo 
-  
-- name: Dance
-  background: dancer2.jpg
+
+- name: Volt
+  background: volt.jpg
   type: photo
 
 - name: Korea
