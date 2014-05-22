@@ -20,12 +20,12 @@
   vimeo: 82803389
   type: vimeo
 
-- name: Valp1
-  background: valp1.jpg
+- name: Dancer 
+  background: _MG_0889.jpg
   type: photo
 
-- name: Dance1
-  background: Dance1.jpg
+- name: V
+  background: v6.jpg
   type: photo
 
 - name: Video 1
@@ -40,62 +40,51 @@
   vimeo: 74425509
   type: vimeo
 
-- name: Dance5
-  background: Dance5.jpg
+- name: Volt
+  background: volt.jpg
   type: photo  
 
 - name: Video 1
   vimeo: 74381844
   type: vimeo
   
-- name: theman
-  background: theman.jpg
+- name: V3
+  background: v3.jpg
   type: photo
 
-- name: Korea
-  background: korea.jpg
+- name: Ropa så att ingen hör
+  background: a12.jpg
   type: photo
   
 - name: Ropa så ingen hör 2
-  background: ropa2.jpg
-  type: photo
-
-- name: Ropa så ingen hör 1
-  background: ropa1.jpg
-  type: photo
-
-- name: Dance7
-  background: Dance7.jpg
-  type: photo 
-  
-- name: Volt
-  background: volt.jpg
-  type: photo
-
-- name: portratt
-  background: portratt.jpg
-  type: photo
-
-- name: Tvätt
-  background: tvatt.jpg
-  type: photo
-
-- name: Dance3
-  background: Dance3.jpg
-  type: photo
-
-- name: brygga
-  background: brygga.jpg
-  type: photo
-
-- name: Hund
-  background: Hund.jpg
-  type: photo
-
-- name: Drake
-  background: drake.jpg
+  background: agatha10.jpg
   type: photo
 
 - name: Patrik
-  background: Patrik2.jpg
+  background: patrik 5.jpg
   type: photo
+
+- name: Water
+  background: _MG_1069.jpg
+  type: photo 
+  
+- name: Dance
+  background: _MG_8874.jpg
+  type: photo
+
+- name: Korea
+  background: _MG_7262.jpg
+  type: photo
+
+- name: Water2
+  background: _MG_1028-2.jpg
+  type: photo
+
+- name: View
+  background: _MG_0889.jpg
+  type: photo
+
+- name: Brygga
+  background: bryggaliten.jpg
+  type: photo
+
