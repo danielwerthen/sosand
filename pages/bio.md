@@ -51,7 +51,7 @@ Linkedin: se.linkedin.com/pub/sonja-sandström/72/756/24b
 
 Vimeo: https://vimeo.com/user8520199   
 
-Godkänd för F-skatt.   
+Godkänd för F-skatt.    
 
 
 
