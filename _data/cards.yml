@@ -36,18 +36,6 @@
   vimeo: 74425509
   type: vimeo
 
-- name: Dancer
-  background: dancer3.jpg
-  type: photo
-
-- name: V3
-  background: v3.jpg
-  type: photo
-
-- name: Dance
-  background: dancer2.jpg
-  type: photo
-  
 - name: V
   background: v6.jpg
   type: photo
@@ -92,5 +80,16 @@
   background: dancer1.jpg
   type: photo  
 
+- name: Dancer
+  background: dancer3.jpg
+  type: photo
+
+- name: V3
+  background: v3.jpg
+  type: photo
+
+- name: Dance
+  background: dancer2.jpg
+  type: photo
 
 
