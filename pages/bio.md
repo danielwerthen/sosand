@@ -39,22 +39,19 @@ Eventfotograf/eventfilm
 Företag/Konferans-film
 
 
-Förfrågan ring: 076-316 75 70, 
-E-mail sandstrom.sonja@gmail.com
+Företag: Filmfotograf Sonja Sandström   
 
-Företag: Filmfotograf Sonja Sandström
+Tel: +46 (0) 76 315 75 70    
 
-Tel: +46 (0) 76 315 75 70
+Mejl: sandstrom.sonja@gmail.com   
 
-Mejl: sandstrom.sonja@gmail.com
+Hemsida: www.sonjasandstrom.com   
 
-Hemsida: www.sonjasandstrom.com 
+Linkedin: se.linkedin.com/pub/sonja-sandström/72/756/24b   
 
-Linkedin: se.linkedin.com/pub/sonja-sandström/72/756/24b
+Vimeo: https://vimeo.com/user8520199   
 
-Vimeo: https://vimeo.com/user8520199
-
-Godkänd för F-skatt.
+Godkänd för F-skatt.   
 
 
 
