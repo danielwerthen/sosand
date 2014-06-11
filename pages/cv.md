@@ -43,7 +43,7 @@ Kamera: Canon 5d
 
 ## Music videos   
 
-[Love Never Felt So Good - Justin Timberlake & Michael Jackson](https://www.youtube.com/watch?v=oG08ukJPtR8)   
+[Love Never Felt So Good - Justin Timberlake & Michael Jackson](https://www.youtube.com/watch?v=oG08ukJPtR8) -2014   
 Produktionsbolag: Another Production   
 Position: Craft   
 
@@ -56,12 +56,16 @@ Kamera: Red Epic
 Position: A-foto, Elektiker, Redigering  
 Kamera: Canon 5d mark II  
    
-Robyn ft Röyksopp - Sayit   
+Robyn ft Röyksopp - Sayit -2014   
 Produktionsbolag: Strange Cargo   
 Position: Produktions-assistent   
    
 ## Trailers / Promotion etc.
- 
+
+Salomon City Trail (commercial) - 2014   
+Position: Kameraoperatör   
+Kamera: Canon 5d mIII   
+   
 [Joe Labero iInferno](http://www.youtube.com/watch?v=Tngkm5gmyVg) - 2013  
 Position: B-foto, Fotograf  
 Kamera: Canon c300  
@@ -107,6 +111,9 @@ Produktionsbolag: Fango
 Position: Fotograf   
 
 ## Photography:
+Eventfotograf -2014   
+Display by Samsung   
+Arbetsgivare: Onemotion IMC AB   
 
 Eventfotograf - 2014   
 Microsofts BI event   
