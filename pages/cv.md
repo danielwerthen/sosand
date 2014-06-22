@@ -79,14 +79,14 @@ Produktionsbolag: Stockholm Media House
 Position: B-foto  
 Kamera: Red Epic  
  
-Filmning av en konferens åt vattenfall.   
+Filmning av en konferens åt vattenfall - 2014   
 Position: Kameraoperatör   
 Produktionsbolag: Populate AB   
 Kamera: Blackmagic CC 2k   
  
 ## Shows
 
-Dansbandet Mannerz Live-framträdande   
+Dansbandet Mannerz Live-framträdande -2013   
 Produktionsbolag: Cinemavision   
 Position: A-foto   
  
