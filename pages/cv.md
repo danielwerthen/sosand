@@ -19,7 +19,7 @@ Produktionsbolag: Populate AB
 Position: A-foto   
 Kamera: Blacmagic CC 4k      
    
-Nyhetsändning under Försvarsmaktens övning Viking 14   
+Nyhetsändning under Försvarsmaktens övning Viking 14 -2014   
 Arbetsgivare: Försvarsmakten/Criscom   
 Position: Fältfotograf/Redigering   
    
