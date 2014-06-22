@@ -56,7 +56,7 @@ Kamera: Red Epic
 Position: A-foto, Elektiker, Redigering  
 Kamera: Canon 5d mark II  
    
-Robyn ft Röyksopp - Sayit -2014   
+[Robyn ft Röyksopp - Sayit](https://www.youtube.com/watch?v=CNu7_CAJ3uA) -2014   
 Produktionsbolag: Strange Cargo   
 Position: Produktions-assistent   
    
@@ -111,6 +111,10 @@ Produktionsbolag: Fango
 Position: Fotograf   
 
 ## Photography:
+Eventfotograf - 2014   
+Sweco Sommarfest   
+Arbetsgivare: Onemotion IMC AB   
+   
 Eventfotograf -2014   
 Display by Samsung   
 Arbetsgivare: Onemotion IMC AB   
