@@ -19,6 +19,10 @@ Produktionsbolag: Populate AB
 Position: A-foto   
 Kamera: Blacmagic CC 4k      
    
+Nyhetsändning under Försvarsmaktens övning Viking 14   
+Arbetsgivare: Försvarsmakten/Criscom   
+Position: Fältfotograf/Redigering   
+   
 Antimobbningsfilm [Varför just jag](http://www.youtube.com/watch?v=fNgAy_tyBho) - 2013  
 Produktionsbolag: ErFilm  
 Position: B-foto  
