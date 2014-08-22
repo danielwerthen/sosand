@@ -34,8 +34,12 @@
 
 - name: Video 1
   vimeo: 74425509
-  type: vimeo
-
+  type: vimeo   
+  
+- name: Video 1
+  youtube: ZCSwr6m9Vs0
+  type: youtube     
+   
 - name: V
   background: v6.jpg
   type: photo
