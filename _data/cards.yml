@@ -37,7 +37,7 @@
   type: vimeo   
   
 - name: Video 1
-  youtube: https://www.youtube.com/watch?v=ZCSwr6m9Vs0   
+  youtube: http://youtu.be/ZCSwr6m9Vs0     
   type: youtube     
    
 - name: V
