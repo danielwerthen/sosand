@@ -72,10 +72,6 @@
   background: korea.jpg
   type: photo
 
-- name: Water2
-  background: vattenfall.jpg
-  type: photo
-
  - name: Potrait
   background: Potrait.jpg
   type: photo
@@ -95,5 +91,3 @@
 - name: Water
   background: vatten.jpg
   type: photo 
-
-
