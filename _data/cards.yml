@@ -21,19 +21,19 @@
   type: vimeo
 
 - name: Video 1
-  vimeo: 74381844
+  vimeo: 105546558 
   type: vimeo
     
 - name: Video 1
-  vimeo: 105546558 
-  type: vimeo
-
-- name: Video 1
-  vimeo: 74390340
+  vimeo: 74381844
   type: vimeo
 
 - name: Video 1
   vimeo: 74425509
+  type: vimeo
+
+- name: Video 1
+  vimeo: 74390340
   type: vimeo   
   
 - name: Video 1
