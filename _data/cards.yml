@@ -60,9 +60,9 @@
   background: dancer3.jpg
   type: photo
 
-- name: Water
-  background: vatten.jpg
-  type: photo 
+- name: Ropa så att ingen hör
+  background: a12.jpg
+  type: photo
 
 - name: Volt
   background: volt.jpg
@@ -92,8 +92,6 @@
   background: Potrait.jpg
   type: photo
 
-
-
 - name: World
   background: World.jpg
   type: photo  
@@ -106,6 +104,8 @@
   background: dancer2.jpg
   type: photo
 
-- name: Ropa så att ingen hör
-  background: a12.jpg
-  type: photo
+- name: Water
+  background: vatten.jpg
+  type: photo 
+
+
