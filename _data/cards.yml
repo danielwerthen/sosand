@@ -37,9 +37,9 @@
   type: vimeo   
   
 - name: Video 1
-  youtube: http://youtu.be/ZCSwr6m9Vs0     
-  type: youtube     
-   
+  vimeo:105546558   
+  type: vimeo     
+     
 - name: V
   background: v6.jpg
   type: photo
