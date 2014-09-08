@@ -40,8 +40,8 @@
   vimeo: 74381844   
   type: vimeo     
      
-- name: V
-  background: v6.jpg
+- name: Beauty
+  background: Beauty.jpg
   type: photo
 
 - name: Ropa så att ingen hör
@@ -52,8 +52,8 @@
   background: agatha10.jpg
   type: photo
 
-- name: Patrik
-  background: patrik 5.jpg
+- name: Potrait
+  background: Potrait.jpg
   type: photo
 
 - name: Water
@@ -71,6 +71,10 @@
 - name: Water2
   background: vattenfall.jpg
   type: photo
+  
+- name: Skate
+  background: Skate.jpg
+  type: photo  
 
 - name: View
   background: utsikt.jpg
@@ -83,17 +87,24 @@
 - name: D
   background: dancer1.jpg
   type: photo  
-
+   
 - name: Dancer
   background: dancer3.jpg
   type: photo
-
+    
+- name: World
+  background: World.jpg
+  type: photo  
+   
 - name: V3
   background: v3.jpg
   type: photo
-
+   
 - name: Dance
   background: dancer2.jpg
   type: photo
-
+   
+- name: Tricking  
+  background: Tricking.jpg
+  type: photo   
 
