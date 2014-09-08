@@ -23,7 +23,7 @@
 - name: Video 1
   vimeo: 105546558 
   type: vimeo
-    
+
 - name: Video 1
   vimeo: 66622448
   type: vimeo
@@ -35,19 +35,19 @@
 - name: Video 1
   vimeo: 74390340
   type: vimeo   
-  
+
 - name: Video 1
   vimeo: 74381844   
   type: vimeo     
-     
+ 
 - name: Beauty
   background: Beauty.jpg
   type: photo
 
-- name: Ropa så att ingen hör
-  background: a12.jpg
+- name: Tricking  
+  background: Tricking.jpg
   type: photo
-  
+
 - name: Ropa så ingen hör 2
   background: agatha10.jpg
   type: photo
@@ -87,24 +87,23 @@
 - name: D
   background: dancer1.jpg
   type: photo  
-   
+
 - name: Dancer
   background: dancer3.jpg
   type: photo
-    
+
 - name: World
   background: World.jpg
   type: photo  
-   
+
 - name: V3
   background: v3.jpg
   type: photo
-   
+
 - name: Dance
   background: dancer2.jpg
   type: photo
-   
-- name: Tricking  
-  background: Tricking.jpg
-  type: photo   
 
+- name: Ropa så att ingen hör
+  background: a12.jpg
+  type: photo
