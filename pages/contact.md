@@ -9,7 +9,8 @@ title: Sonja Sandström - Contact
 
 **Email** <sandstrom.sonja@gmail.com>  
 **Phone** +46 (0) 763 16 75 70  
-**Vimeo** [Sonja Sandström](http://vimeo.com/user8520199)
+**Vimeo** [Sonja Sandström](http://vimeo.com/user8520199)   
+[Linkedin](https://www.linkedin.com/pub/sonja-sandstr%C3%B6m/72/756/24b)    
 
 Bosatt söder om Stockholm   
 
