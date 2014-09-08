@@ -47,8 +47,8 @@ Kamera: Canon 5d
 
 ## Music videos   
 
-[Freak in me - Hangmore](https://www.youtube.com/watch?v=hzAD5Zh8kRE) -2014   
-Position: Producent, fotograf och redigering
+[Freak in me - Hangmore](https://www.youtube.com/watch?v=hzAD5Zh8kRE) -2014    
+Position: Producent, fotograf och redigering   
 Kamera: Canon 5D mark II   
    
 [Desert Cold - Snowy Dunes](https://www.youtube.com/watch?v=ZL_kQfLNTB8&feature=youtu.be) -2014   
