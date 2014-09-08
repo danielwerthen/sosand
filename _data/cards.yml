@@ -48,10 +48,10 @@
   background: Tricking.jpg
   type: photo
 
-- name: Ropa så ingen hör 2
-  background: agatha10.jpg
-  type: photo
-  
+- name: Skate
+  background: Skate.jpg
+  type: photo  
+
 - name: D
   background: dancer1.jpg
   type: photo  
@@ -72,9 +72,9 @@
   background: vattenfall.jpg
   type: photo
   
-- name: Skate
-  background: Skate.jpg
-  type: photo  
+- name: Ropa så ingen hör 2
+  background: agatha10.jpg
+  type: photo
 
 - name: View
   background: utsikt.jpg
