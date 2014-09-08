@@ -54,7 +54,7 @@
 
 - name: D
   background: dancer1.jpg
-  type: photo  
+  type: photo 
 
 - name: Dancer
   background: dancer3.jpg
