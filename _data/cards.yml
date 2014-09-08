@@ -56,6 +56,10 @@
   background: dancer1.jpg
   type: photo  
 
+- name: Dancer
+  background: dancer3.jpg
+  type: photo
+
 - name: Water
   background: vatten.jpg
   type: photo 
@@ -88,9 +92,7 @@
   background: Potrait.jpg
   type: photo
 
-- name: Dancer
-  background: dancer3.jpg
-  type: photo
+
 
 - name: World
   background: World.jpg
