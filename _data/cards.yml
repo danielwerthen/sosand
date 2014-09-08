@@ -76,10 +76,6 @@
   background: vattenfall.jpg
   type: photo
 
-- name: View
-  background: utsikt.jpg
-  type: photo
-  
  - name: Potrait
   background: Potrait.jpg
   type: photo
