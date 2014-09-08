@@ -75,20 +75,12 @@
 - name: Water2
   background: vattenfall.jpg
   type: photo
-  
-- name: Ropa så ingen hör 2
-  background: agatha10.jpg
-  type: photo
 
 - name: View
   background: utsikt.jpg
   type: photo
   
-- name: Brygga
-  background: bryggaliten.jpg
-  type: photo  
-
-- name: Potrait
+ - name: Potrait
   background: Potrait.jpg
   type: photo
 
