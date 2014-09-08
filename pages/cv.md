@@ -47,10 +47,18 @@ Kamera: Canon 5d
 
 ## Music videos   
 
-[Love Never Felt So Good - Justin Timberlake & Michael Jackson](https://www.youtube.com/watch?v=oG08ukJPtR8) -2014   
+[Freak in me - Hangmore](https://www.youtube.com/watch?v=hzAD5Zh8kRE) -2014   
+Position: Producent, fotograf och redigering
+Kamera: Canon 5D mark II   
+   
+[Desert Cold - Snowy Dunes](https://www.youtube.com/watch?v=ZL_kQfLNTB8&feature=youtu.be) -2014   
+Position: Fotograf
+Kamera: Canon 5D mark II
+   
+[Love Never Felt So Good - Justin Timberlake & Michael Jackson](https://www.youtube.com/watch?v=oG08ukJPtR8) -2014  
 Produktionsbolag: Another Production   
 Position: Craft   
-
+   
 [Timbuktu och Kartellen - Svarta Duvor & Vissna Liljor](http://vimeo.com/82803389) - 2013  
 Produktionsbolag: Concrete Steppa Pictures  
 Position: A-foto  
@@ -64,7 +72,10 @@ Kamera: Canon 5d mark II
 Produktionsbolag: Strange Cargo   
 Position: Produktions-assistent   
    
-## Trailers / Promotion etc.
+## Trailers / Promotion etc.   
+   
+Reklamfilm för Bukowskis Market -2014   
+Position: Fotograf, B-foto
 
 Salomon City Trail (commercial) - 2014   
 Position: Kameraoperatör   
