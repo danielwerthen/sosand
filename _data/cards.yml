@@ -51,10 +51,10 @@
 - name: Ropa så ingen hör 2
   background: agatha10.jpg
   type: photo
-
-- name: Potrait
-  background: Potrait.jpg
-  type: photo
+  
+- name: D
+  background: dancer1.jpg
+  type: photo  
 
 - name: Water
   background: vatten.jpg
@@ -84,9 +84,9 @@
   background: bryggaliten.jpg
   type: photo  
 
-- name: D
-  background: dancer1.jpg
-  type: photo  
+- name: Potrait
+  background: Potrait.jpg
+  type: photo
 
 - name: Dancer
   background: dancer3.jpg
