@@ -87,7 +87,3 @@
 - name: Dance
   background: dancer2.jpg
   type: photo
-
-- name: Water
-  background: vatten.jpg
-  type: photo 
