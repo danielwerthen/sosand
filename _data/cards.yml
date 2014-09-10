@@ -38,8 +38,12 @@
 
 - name: Video 1
   vimeo: 74381844   
-  type: vimeo     
- 
+  type: vimeo  
+
+- name: Video 1
+  vimeo: 105749119   
+  type: vimeo
+
 - name: Beauty
   background: Beauty.jpg
   type: photo
