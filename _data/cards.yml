@@ -44,8 +44,8 @@
   vimeo: 105749119   
   type: vimeo
 
-- name: Beauty
-  background: Beauty.jpg
+- name: Ropa så att ingen hör
+  background: a12.jpg
   type: photo
 
 - name: Tricking  
@@ -64,8 +64,8 @@
   background: dancer3.jpg
   type: photo
 
-- name: Ropa så att ingen hör
-  background: a12.jpg
+- name: Beauty
+  background: Beauty.jpg
   type: photo
 
 - name: Volt
