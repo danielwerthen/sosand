@@ -85,5 +85,5 @@
   type: photo
   
 - name: Potrait
-- background: Potrait.jpg
-- type: photo
+  background: Potrait.jpg
+  type: photo
