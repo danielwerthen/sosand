@@ -76,17 +76,9 @@
   background: korea.jpg
   type: photo
 
-- name: Potrait
-  background: Potrait.jpg
-  type: photo
-
 - name: World
   background: World.jpg
   type: photo  
-
-- name: V3
-  background: v3.jpg
-  type: photo
 
 - name: Skate
   background: Skate.jpg
