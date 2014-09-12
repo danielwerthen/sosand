@@ -83,3 +83,7 @@
 - name: Skate
   background: Skate.jpg
   type: photo
+  
+- name: Potrait
+- background: Potrait.jpg
+- type: photo
