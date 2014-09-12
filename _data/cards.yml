@@ -48,8 +48,8 @@
   background: a12.jpg
   type: photo
 
-- name: Tricking  
-  background: Tricking.jpg
+- name: Skate
+  background: Skate.jpg
   type: photo
 
 - name: D
@@ -76,10 +76,10 @@
   background: korea.jpg
   type: photo
 
-- name: Skate
-  background: Skate.jpg
+- name: Tricking  
+  background: Tricking.jpg
   type: photo
-  
+
 - name: Potrait
   background: Potrait.jpg
   type: photo
