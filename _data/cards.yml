@@ -56,9 +56,9 @@
   background: Skate.jpg
   type: photo  
 
-- name: D
-  background: dancer1.jpg
-  type: photo 
+- name: Dance
+  background: dancer2.jpg
+  type: photo
 
 - name: Dancer
   background: dancer3.jpg
@@ -88,6 +88,6 @@
   background: v3.jpg
   type: photo
 
-- name: Dance
-  background: dancer2.jpg
-  type: photo
+- name: D
+  background: dancer1.jpg
+  type: photo 
