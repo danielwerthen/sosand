@@ -44,10 +44,6 @@
   vimeo: 105749119   
   type: vimeo
 
-- name: Skate
-  background: Skate.jpg
-  type: photo
-
 - name: pic1
   background: pic1.jpg
   type: photo
@@ -60,16 +56,16 @@
   background: pic2.jpg
   type: photo
 
-- name: Tricking  
-  background: Tricking.jpg
-  type: photo
-
 - name: pic6
   background: pic6.jpg
   type: photo
 
 - name: Dancer
   background: dancer1.jpg
+  type: photo
+
+- name: Tricking  
+  background: Tricking.jpg
   type: photo
 
 - name: pic4
@@ -82,4 +78,8 @@
 
 - name: pic3
   background: pic3.jpg
+  type: photo
+
+- name: Skate
+  background: Skate.jpg
   type: photo
