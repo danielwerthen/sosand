@@ -44,10 +44,6 @@
   vimeo: 105749119   
   type: vimeo
 
-- name: Ropa så att ingen hör
-  background: a12.jpg
-  type: photo
-
 - name: Skate
   background: Skate.jpg
   type: photo
@@ -56,30 +52,34 @@
   background: dancer1.jpg
   type: photo 
 
-- name: Dance
-  background: dancer2.jpg
-  type: photo
-
 - name: Dancer
   background: dancer3.jpg
   type: photo
 
-- name: Beauty
-  background: Beauty.jpg
+- name: pic2
+  background: pic2.jpg
   type: photo
 
-- name: Volt
-  background: volt.jpg
-  type: photo
-
-- name: Korea
-  background: korea.jpg
+- name: pic1
+  background: pic1.jpg
   type: photo
 
 - name: Tricking  
   background: Tricking.jpg
   type: photo
 
-- name: Potrait
-  background: Potrait.jpg
+- name: pic6
+  background: pic6.jpg
+  type: photo
+
+- name: pic4
+  background: pic4.jpg
+  type: photo
+
+- name: pic5
+  background: pic5.jpg
+  type: photo
+
+- name: pic3
+  background: pic3.jpg
   type: photo
