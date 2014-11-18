@@ -68,6 +68,10 @@
   background: pic6.jpg
   type: photo
 
+- name: Dancer
+  background: dancer2.jpg
+  type: photo
+
 - name: pic4
   background: pic4.jpg
   type: photo
