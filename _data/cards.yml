@@ -64,10 +64,6 @@
   background: dancer1.jpg
   type: photo
 
-- name: Tricking  
-  background: Tricking.jpg
-  type: photo
-
 - name: pic4
   background: pic4.jpg
   type: photo
@@ -82,4 +78,8 @@
 
 - name: Skate
   background: Skate.jpg
+  type: photo
+
+  - name: Tricking  
+  background: Tricking.jpg
   type: photo
