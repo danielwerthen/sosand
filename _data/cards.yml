@@ -44,8 +44,8 @@
   vimeo: 105749119   
   type: vimeo
 
-- name: pic1
-  background: pic1.jpg
+- name: pic11
+  background: pic11.jpg
   type: photo
 
 - name: pic2
