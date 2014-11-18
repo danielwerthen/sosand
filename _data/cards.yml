@@ -48,10 +48,6 @@
   background: pic1.jpg
   type: photo
 
-- name: Dancer
-  background: dancer3.jpg
-  type: photo
-
 - name: pic2
   background: pic2.jpg
   type: photo
@@ -82,4 +78,8 @@
 
   - name: Tricking  
   background: Tricking.jpg
+  type: photo
+
+- name: Dancer
+  background: dancer3.jpg
   type: photo
