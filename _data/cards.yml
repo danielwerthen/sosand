@@ -72,14 +72,14 @@
   background: pic3.jpg
   type: photo
 
-- name: Skate
-  background: Skate.jpg
-  type: photo
-
   - name: Tricking  
   background: Tricking.jpg
   type: photo
 
 - name: Dancer
   background: dancer3.jpg
+  type: photo
+
+- name: Skate
+  background: Skate.jpg
   type: photo
