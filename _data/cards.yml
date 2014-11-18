@@ -68,16 +68,16 @@
   background: pic5.jpg
   type: photo
 
+- name: Dancer
+  background: dancer3.jpg
+  type: photo
+
 - name: pic3
   background: pic3.jpg
   type: photo
 
-  - name: Tricking  
+- name: Tricking  
   background: Tricking.jpg
-  type: photo
-
-- name: Dancer
-  background: dancer3.jpg
   type: photo
 
 - name: Skate
