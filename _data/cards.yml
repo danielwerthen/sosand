@@ -52,10 +52,6 @@
   background: pic2.jpg
   type: photo
 
-- name: pic6
-  background: pic6.jpg
-  type: photo
-
 - name: Dancer
   background: dancer1.jpg
   type: photo
