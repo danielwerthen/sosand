@@ -51,10 +51,6 @@
 - name: Video 1
   vimeo: 74381844   
   type: vimeo
-
-- name: 06  
-  background: 06.jpg
-  type: photo
   
 - name: ent
   background: ent.jpg
