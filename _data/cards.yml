@@ -28,16 +28,16 @@
   background: storm.jpg
   type: photo
   
-- name: 02
-  background: 02.jpg
+- name: 04
+  background: 04.jpg
   type: photo
-  
+
 - name: flickr
   background: flickr.jpg
   type: photo
   
-- name: 04
-  background: 04.jpg
+- name: 02
+  background: 02.jpg
   type: photo
   
 - name: fairy
