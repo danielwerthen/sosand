@@ -48,8 +48,8 @@
   vimeo: 74425509 
   type: vimeo
 
-- name: pic2
-  background: pic2.jpg
+- name: 02
+  background: 02.jpg
   type: photo
 
 - name: Dancer
