@@ -52,10 +52,6 @@
   vimeo: 74381844   
   type: vimeo
   
-- name: ent
-  background: ent.jpg
-  type: photo
-  
 - name: angel
   background: angel.jpg
   type: photo
@@ -71,6 +67,10 @@
 - name: Video 1
   vimeo: 113442509
   type: vimeo
+  
+- name: ent
+  background: ent.jpg
+  type: photo
   
 
 
