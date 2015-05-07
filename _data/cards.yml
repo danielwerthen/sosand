@@ -63,6 +63,10 @@
 - name: Video 1
   vimeo: 66622448
   type: vimeo
+  
+- name: ent
+  background: ent.jpg
+  type: photo
 
 - name: Video 1
   vimeo: 105749119
@@ -72,9 +76,7 @@
   vimeo: 113442509
   type: vimeo
   
-- name: ent
-  background: ent.jpg
-  type: photo
+
 
 
 
