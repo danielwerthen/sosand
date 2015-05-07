@@ -56,12 +56,12 @@
   background: 06.jpg
   type: photo
   
-- name: angel
-  background: angel.jpg
-  type: photo
-  
 - name: ent
   background: ent.jpg
+  type: photo
+  
+- name: angel
+  background: angel.jpg
   type: photo
 
 - name: Video 1
