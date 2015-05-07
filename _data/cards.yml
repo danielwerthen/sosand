@@ -52,22 +52,22 @@
   background: 02.jpg
   type: photo
 
-- name: Dancer
-  background: dancer1.jpg
+- name: flickr
+  background: flickr.jpg
   type: photo
 
-- name: pic4
-  background: pic4.jpg
+- name: 04
+  background: 04.jpg
   type: photo
 
-- name: pic5
-  background: pic5.jpg
+- name: 01
+  background: 01.jpg
   type: photo
 
-- name: Dancer
-  background: dancer3.jpg
+- name: last flight
+  background: Patrikängel2.jpg
   type: photo
 
-- name: Tricking  
-  background: Tricking.jpg
+- name: 06  
+  background: 06.jpg
   type: photo
