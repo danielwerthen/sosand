@@ -16,29 +16,37 @@
   background: flickr.jpg
   type: photo
   
-- name: Video 1
-  vimeo: 83584550
-  type: vimeo
-  
 - name: 02
   background: 02.jpg
   type: photo
-  
-- name: Video 1
-  vimeo: 113442509
-  type: vimeo
   
 - name: 04
   background: 04.jpg
   type: photo
   
+- name: Video 1
+  vimeo: 83584550
+  type: vimeo
+  
+- name: Video 1
+  vimeo: 113442509
+  type: vimeo
+  
+- name: Video 1
+  vimeo: 82803389
+  type: vimeo
+  
 - name: 01
   background: 01.jpg
   type: photo
 
-- name: Video 1
-  vimeo: 82803389
-  type: vimeo
+- name: 06  
+  background: 06.jpg
+  type: photo
+  
+- name: angel
+  background: angel.jpg
+  type: photo
 
 - name: Video 1
   vimeo: 105546558 
@@ -51,10 +59,6 @@
 - name: Video 1
   vimeo: 105749119
   type: vimeo
-  
-- name: 06  
-  background: 06.jpg
-  type: photo
 
 - name: Video 1
   vimeo: 74390340
@@ -68,8 +72,6 @@
   vimeo: 74425509 
   type: vimeo
 
-- name: angel
-  background: angel.jpg
-  type: photo
+
 
 
