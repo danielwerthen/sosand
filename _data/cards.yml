@@ -12,10 +12,6 @@
   type: page
   background: contact (kopia).jpg
   
-- name: flickr
-  background: flickr.jpg
-  type: photo
-  
 - name: Video 1
   vimeo: 83584550
   type: vimeo
@@ -61,16 +57,13 @@
   type: vimeo
 
 - name: Video 1
-  vimeo: 74390340
-  type: vimeo   
-
-- name: Video 1
   vimeo: 74381844   
   type: vimeo  
+  
+- name: flickr
+  background: flickr.jpg
+  type: photo
 
-- name: Video 1
-  vimeo: 74425509 
-  type: vimeo
 
 
 
