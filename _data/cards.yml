@@ -24,10 +24,6 @@
   vimeo: 105546558 
   type: vimeo
   
-- name: storm
-  background: storm.jpg
-  type: photo
-  
 - name: 04
   background: 04.jpg
   type: photo
@@ -38,10 +34,6 @@
   
 - name: 02
   background: 02.jpg
-  type: photo
-  
-- name: fairy
-  background: fairy.jpg
   type: photo
   
 - name: 01
