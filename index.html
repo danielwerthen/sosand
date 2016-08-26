@@ -1,0 +1,182 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Sonja Sandstrom Photography</title>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script type="text/javascript" src="stepcarousel.js">
+
+/***********************************************
+* Step Carousel Viewer script- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* Visit http://www.dynamicDrive.com for hundreds of DHTML scripts
+* This notice must stay intact for legal use
+***********************************************/
+</script>
+
+<style type="text/css">
+.stepcarousel{
+position: relative;
+overflow: scroll; 
+width: 1000px; 
+height: 600px; 
+-webkit-box-sizing: border-box; 
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+}
+
+.stepcarousel .belt{
+position: absolute; 
+left: 0;
+top: 0;
+}
+
+.stepcarousel .panel{
+float: left; 
+overflow: hidden; 
+width: 1000px; 
+margin 10px; 
+}
+
+span.paginatecircle{ 
+background: white;
+border: 2px solid black;
+border-radius: 10px;
+width: 6px;
+height: 6px;
+cursor: pointer;
+display: inline-block;
+margin-right: 4px;
+}
+
+span.paginatecircle:hover{
+background: gray;
+}
+
+span.paginatecircle.selected{
+background: black;
+}
+</style>
+
+<script type="text/javascript">
+stepcarousel.setup({
+	galleryid: 'mygallery', //id of carousel DIV
+	beltclass: 'belt', //class of inner "belt" DIV containing all the panel DIVs
+	panelclass: 'panel', //class of panel DIVs each holding content
+	autostep: {enable:true, moveby:1, pause:4000},
+	panelbehavior: {speed:400, wraparound:true, wrapbehavior:'slide', persist:true},
+	defaultbuttons: {enable: false, moveby: 1, leftnav: ['bilder/larrow.png', 0, 0], rightnav: ['bilder/rarrow.png', 0, 0]},
+	statusvars: ['statusA', 'statusB', 'statusC'], //register 3 variables that contain current panel (start), current panel (last), and total panels
+	contenttype: ['inline'] //content setting ['inline'] or ['ajax', 'path_to_external_file']
+})
+</script>
+
+</head>
+<body>
+
+
+<style type="text/css">
+<!--
+#menu1 {
+	position:absolute;
+	width: 200px;
+	height: 40px;
+    top: 200px;
+    left: -400px;
+}
+
+#menu2 {
+	position: absolute;
+	width: 200px;
+	height: 40px;
+    top: 200px;
+    left: -100px;
+}
+
+#menu3 {
+	position: absolute;
+	width: 200px;
+	height: 40px;
+    top: 200px;
+    left: 200px;
+}
+
+#Header {
+	position:absolute;
+	width: 1000px;
+	height: 120px;
+    top: 50px;
+    left: -500px;
+
+}
+#Content {
+	border:thin ridge #000000;
+	position:absolute;
+	width: 1000px;
+	height: 600px;
+	margin: 0;
+    position: absolute;
+    top: 280px;
+    left: -500px;
+}
+#center {
+	position:absolute;
+	width: 0px;
+	height: 0px;
+	margin: 0;
+    position: absolute;
+    left: 50%;
+}
+#bollar {
+	position:absolute;
+	width: 100px;
+	height: 20px;
+	margin: 0;
+    position: absolute;
+    top: 865px;
+    left: -500px;
+}
+-->
+</style>
+<div id=center>
+<div id="Header"><a href="index.html"><img src="bilder/header.png" border="0" /></a></div>
+<div id="menu1"><a href="gallery.html"><img src="bilder/gallery.png" border="0" /></a></div>
+<div id="menu2"><a href="contact.html"><img src="bilder/contact.png" border="0" /></a></div>
+<div id="menu3"><a href="https://www.etsy.com/se-en/shop/SonjasFineArt"><img src="bilder/prints.png" border="0" /></a></div>
+<div id="Content">
+
+<div id="mygallery" class="stepcarousel">
+<div class="belt">
+<div class="panel">
+<img src="bilder/1.jpg" />
+</div>
+
+<div class="panel">
+<img src="bilder/2.jpg" />
+</div>
+
+<div class="panel">
+<img src="bilder/3.jpg" />
+</div>
+
+<div class="panel">
+<img src="bilder/4.jpg" />
+</div>
+
+<div class="panel">
+<img src="bilder/5.jpg" />
+</div>
+</div>
+</div>
+</div>
+
+<div id="bollar">
+<p id="mygallery-paginate">
+<span class="paginatecircle" data-moveby="1"></span>
+</p>
+</div>
+
+</div>
+</body>
+</html>
