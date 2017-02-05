@@ -1,272 +1,310 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html><!-- InstanceBegin template="/Templates/temp.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Sonja Sandstrom Photography</title>
+<meta charset="utf-8">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Sonja Sandström Photography</title>
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script type="text/javascript" src="stepcarousel.js">
+
+/***********************************************
+* Step Carousel Viewer script- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* Visit http://www.dynamicDrive.com for hundreds of DHTML scripts
+* This notice must stay intact for legal use
+***********************************************/
+</script>
+
+<style type="text/css">
+.stepcarousel{
+position: relative;
+overflow: scroll; 
+width: 1200px; 
+height: 750px; 
+-webkit-box-sizing: border-box; 
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+}
+
+.stepcarousel .belt{
+position: absolute; 
+left: 0;
+top: 0;
+}
+
+.stepcarousel .panel{
+float: left; 
+overflow: hidden; 
+width: 1200px; 
+}
+
+span.paginatecircle{ 
+background: white;
+border: 1px solid #999;
+border-radius: 10px;
+width: 6px;
+height: 6px;
+cursor: pointer;
+display: inline-block;
+margin-right: 4px;
+}
+
+span.paginatecircle:hover{
+background: gray;
+}
+
+span.paginatecircle.selected{
+background: black;
+}
+#content {
+	position:absolute;
+	min-width: 1200px;
+	height: 750px;
+    left: 200px;
+	top: 320px;
+	border-style:ridge;
+	border-width: thin;
+	border-color:#999
+	
+}
+#content2 {
+	position:absolute;
+	width: 1200px;
+	height: 1300px;
+    left: 200px;
+	top: 1170px;
+}
+</style>
+
+<script type="text/javascript">
+stepcarousel.setup({
+	galleryid: 'mygallery', //id of carousel DIV
+	beltclass: 'belt', //class of inner "belt" DIV containing all the panel DIVs
+	panelclass: 'panel', //class of panel DIVs each holding content
+	autostep: {enable:true, moveby:1, pause:4000},
+	panelbehavior: {speed:400, wraparound:true, wrapbehavior:'slide', persist:true},
+	defaultbuttons: {enable: false, moveby: 1, leftnav: ['bilder/larrow.png', 0, 0], rightnav: ['bilder/rarrow.png', 0, 0]},
+	statusvars: ['statusA', 'statusB', 'statusC'], //register 3 variables that contain current panel (start), current panel (last), and total panels
+	contenttype: ['inline'] //content setting ['inline'] or ['ajax', 'path_to_external_file']
+})
+</script>
+<!-- InstanceEndEditable -->
 
 <style type="text/css">
 <!--
-#center {
-	position:absolute;
-	width: 0px;
-	height: 1900px;
-	margin: 0;
-    position: absolute;
-    left: 50%;
-	top: -50px;
-}
-#slide {
-	position:absolute;
-	width: 100%;
-	min-width: 1700px;
-	height: 100px;
-    top: 0px;
-    left: 0px;
-	background-image:url(bilder/slide.PNG)
-}
-#line1 {
-	position:absolute;
-	width: 1600px;
-	height: 40px;
-	margin: 0;
-    position: absolute;
-    left: -800px;
-	top: 1880px;
-}
-#phone {
-	position:absolute;
-	width: 1700px;
-	height: 10px;
-    left: 0px;
-	top: 0px;
-}
-#fb {
-	position:absolute;
-	width: 30px;
-	height: 30px;
-	margin: 0;
-    position: absolute;
-    left: 600px;
-	top: 1895px;
-}
-
-#flic {
-	position:absolute;
-	width: 30px;
-	height: 30px;
-	margin: 0;
-    position: absolute;
-    left: 640px;
-	top: 1895px;
-}
-
-#vim {
-	position:absolute;
-	width: 30px;
-	height: 30px;
-	margin: 0;
-    position: absolute;
-    left: 680px;
-	top: 1895px;
-}
-
-#link {
-	position:absolute;
-	width: 30px;
-	height: 30px;
-	margin: 0;
-    position: absolute;
-    left: 720px;
-	top: 1895px;
-}
 #header {
 	position:absolute;
+	width: 100%;
+	min-width: 1500px;
+	height: 100px;
+    left: 0px;
+	top: 0px;
+	background-color:#000;
+}
+#menug {
+	position:absolute;
+	width: 80px;
+	height: 30px;
+    left: 970px;
+	top: 250px;
+}
+#menua {
+	position:absolute;
+	width: 80px;
+	height: 30px;
+    left: 1060px;
+	top: 250px;
+}
+#menus {
+	position:absolute;
+	width: 80px;
+	height: 30px;
+    left: 1134px;
+	top: 250px;
+}
+#title {
+	position: absolute;
 	width: 500px;
 	height: 150px;
-    top: 200px;
-    left: -800px;
-}
-
-#menu1 {
-	position:absolute;
-	width: 70px;
-	height: 25px;
-    top: 310px;
-    left: 330px;
-}
-
-#menu2 {
-	position: absolute;
-	width: 70px;
-	height: 25px;
-    top: 310px;
-    left: 430px;
-}
-
-#menu3 {
-	position: absolute;
-	width: 70px;
-	height: 25px;
-    top: 310px;
-    left: 530px;
-}
-
-#menu4 {
-	position: absolute;
-	width: 70px;
-	height: 25px;
-    top: 310px;
-    left: 610px;
+	left: 180px;
+	top: 140px;
+	z-index: 100;
 }
 
 #gallery1 {
 	position: absolute;
-	width: 400px;
-	height: 400px;
-    top: 400px;
-    left: -650px;
+	width: 360px;
+	height: 360px;
+    left: 0px;
 }
-
 #gallery2 {
 	position: absolute;
-	width: 400px;
-	height: 400px;
-    top: 400px;
-    left: -200px;
+	width: 360px;
+	height: 360px;
+    top: 0px;
+    left: 420px;
 }
-
 #gallery3 {
 	position: absolute;
-	width: 400px;
-	height: 400px;
-    top: 400px;
-    left: 250px;
+	width: 360px;
+	height: 360px;
+    top: 0px;
+    left: 840px;
 }
-
 #gallery4 {
 	position: absolute;
-	width: 400px;
-	height: 400px;
-    top: 875px;
-    left: -650px;
+	width: 360px;
+	height: 360px;
+    left: 0px;
+	top: 450px;
 }
-
 #gallery5 {
 	position: absolute;
-	width: 400px;
-	height: 400px;
-    top: 875px;
-    left: -200px;
+	width: 360px;
+	height: 360px;
+    top: 450px;
+    left: 420px;
 }
-
 #gallery6 {
 	position: absolute;
-	width: 400px;
-	height: 400px;
-    top: 875px;
-    left: 250px;
-
+	width: 360px;
+	height: 360px;
+    top: 450px;
+    left: 840px;
 }
-
 #gallery7 {
 	position: absolute;
-	width: 400px;
-	height: 400px;
-    top: 1350px;
-    left: -650px;
+	width: 360px;
+	height: 360px;
+    left: 0px;
+	top: 900px;
 }
-
 #gallery8 {
 	position: absolute;
-	width: 400px;
-	height: 400px;
-    top: 1350px;
-    left: -200px;
+	width: 360px;
+	height: 360px;
+    top: 900px;
+    left: 420px;
 }
-
-#gallery9 {
+#line1 {
 	position: absolute;
-	width: 400px;
-	height: 400px;
-    top: 1400px;
-    left: 300px;
-
+	width: 1400px;
+	height: 40px;
+    top: -40px;
+    left: -100px;
 }
-#title1 {
+#galname1 {
 	position: absolute;
 	width: 150px;
 	height: 25px;
-    top: 800px;
-    left: -525px;
-
+    top: 360px;
+    left: 105px;
 }
-
-#title2 {
+#galname2 {
 	position: absolute;
 	width: 150px;
 	height: 25px;
-    top: 800px;
-    left: -75px;
-
+    top: 360px;
+    left: 525px;
 }
-
-#title3 {
+#galname3 {
 	position: absolute;
 	width: 150px;
 	height: 25px;
-    top: 800px;
-    left: 375px;
-
+    top: 360px;
+    left: 945px;
 }
-
-#title4 {
+#galname4 {
 	position: absolute;
 	width: 150px;
 	height: 25px;
-    top: 1275px;
-    left: -525px;
-
+    top: 810px;
+    left: 105px;
 }
-
-#title5 {
+#galname5 {
 	position: absolute;
 	width: 150px;
 	height: 25px;
-    top: 1275px;
-    left: -75px;
-
+    top: 810px;
+    left: 525px;
 }
-
-#title6 {
+#galname6 {
 	position: absolute;
 	width: 150px;
 	height: 25px;
-    top: 1275px;
-    left: 375px;
-
+    top: 810px;
+    left: 945px;
 }
-
-#title7 {
+#galname7 {
 	position: absolute;
 	width: 150px;
 	height: 25px;
-    top: 1750px;
-    left: -525px;
-
+    top: 1260px;
+    left: 105px;
 }
-
-#title8 {
+#galname8 {
 	position: absolute;
 	width: 250px;
 	height: 25px;
-    top: 1750px;
-    left: -125px;
+    top: 1260px;
+    left: 475px;
+}
+#line2 {
+	position: absolute;
+	width: 1400px;
+	height: 40px;
+    top: 1350px;
+    left: -100px;
+}
+#fb {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+    top: 1360px;
+    left: 660px;
+}
+#flic {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+    top: 1360px;
+    left: 700px;
+}
+#vimeo {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+    top: 1360px;
+    left: 740px;
+}
+#linked {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+    top: 1360px;
+    left: 780px;
+}
+#line3 {
+	position: absolute;
+	width: 240px;
+	height: 60px;
+    top: 1320px;
+    left: 1020px;
+
+}
+#line4 {
+	position: absolute;
+	width: 240px;
+	height: 60px;
+    top: 1340px;
+    left: 400px;
 
 }
 
-
 -->
 </style>
+
 <script type="text/javascript">
 function MM_swapImgRestore() { //v3.0
   var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
@@ -290,83 +328,96 @@ function MM_swapImage() { //v3.0
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
 </script>
+
 </head>
 
-<body onload="MM_preloadImages('bilder/menu11.PNG','bilder/flic1.PNG','bilder/in1.PNG')">
-<div id="phone">
-<div id=center>
-	<div id="header"><a href="index.html"><img src="bilder/header.PNG" border="0" /></a></div>
-	
-    <div id="menu1"><a href="index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('imenu1','','bilder/menu11.PNG',1)"><img src="bilder/menu12.PNG" width="70" height=									
-    "25" id="imenu1" border="0"/></a></div>
-    
-    <div id="menu2"><a href="contact.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('imenu2','','bilder/menu21.PNG',1)"><img src="bilder/menu22.PNG" width="70" height=									
-    "25" id="imenu2" border="0"/></a></div>
-    
-    <div id="menu3"><a href="about.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('imenu3','','bilder/menu31.PNG',1)"><img src="bilder/menu32.PNG" width="70" height=									
-    "25" id="imenu3" border="0"/></a></div>
-    
-    <div id="menu4"><a href="https://www.etsy.com/se-en/shop/SonjasFineArt" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('imenu4','','bilder/menu41.PNG',1)"><img src="bilder/menu42.PNG" width="70" height=									
-    "25" id="imenu4" border="0"/></a></div>
-    
-    	<div id="gallery1"><a href="citytales.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('cityt','','bilder/gallerier/citytales/daydreamthumb2.PNG',1)"><img src=
-    "bilder/gallerier/citytales/daydreamthumb1.PNG" width="400" height="400" id="cityt" border="0"/></a></div>
-    
-        <div id="gallery2"><a href="fadingfoots.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('foot','','bilder/gallerier/fadingfootsteps/lordthumb1.PNG',1)"><img src=
-    "bilder/gallerier/fadingfootsteps/lordthumb2.PNG" width="400" height="400" id="foot" border="0"/></a></div>
-    
-    	<div id="gallery3"><a href="seasons.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('seas','','bilder/gallerier/seasons/everything2.PNG',1)"><img src=
-    "bilder/gallerier/seasons/everything.PNG" width="400" height="400" id="seas" border="0"/></a></div>
-    
-    <div id="gallery4"><a href="darktales.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('dark','','bilder/gallerier/darktales/dance2.PNG',1)"><img src=
-    "bilder/gallerier/darktales/dance1.PNG" width="400" height="400" id="dark" border="0"/></a></div>
-    
-    <div id="gallery5"><a href="futuristic.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('futu','','bilder/gallerier/futuristic/tire2.PNG',1)"><img src=
-    "bilder/gallerier/futuristic/tire1.PNG" width="400" height="400" id="futu" border="0"/></a></div>
-    
-    <div id="gallery6"><a href="portraits.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('port','','bilder/gallerier/portraits/port2.PNG',1)"><img src=
-    "bilder/gallerier/portraits/port1.PNG" width="400" height="400" id="port" border="0"/></a></div>
-    
-    <div id="gallery7"><a href="dragonnest.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('drag','','bilder/gallerier/thedragonsnest/dragon2.PNG',1)"><img src=
-    "bilder/gallerier/thedragonsnest/dragon1.PNG" width="400" height="400" id="drag" border="0"/></a></div>
-    
-    <div id="gallery8"><a href="whispers.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('wisp','','bilder/gallerier/whispers/glimpse2.PNG',1)"><img src=
-    "bilder/gallerier/whispers/glimpse1.PNG" width="400" height="400" id="wisp" border="0"/></a></div>
+<body onLoad="MM_preloadImages('images/gal12.PNG','images/gal22.PNG','images/gal32.PNG','images/gal42.PNG','images/gal52.PNG','images/gal62.PNG','images/gal72.PNG','images/gal82.PNG','images/flic1.PNG','images/vim1.PNG','images/in1.PNG','images/menu5.PNG','images/menu7.PNG','images/menu1.PNG')">
+<div id="header"></div>
+<div id="title"><a href="index.html"><img src="images/header.PNG"></a></div>
 
-		<div id=title1><a href="citytales.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('cityt','','bilder/gallerier/citytales/daydreamthumb2.PNG',1)"><img src=
-    	"bilder/cityt.PNG" width="150" height="25" id="cityt" border="0"/></a></div>
-    
-    	<div id=title2><a href="fadingfoots.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('foot','','bilder/gallerier/fadingfootsteps/lordthumb1.PNG',1)"><img src=
-    	"bilder/fadingf.PNG" width="150" height="25" id="foot" border="0"/></a></div>
-    
-    	<div id=title3><a href="seasons.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('seas','','bilder/gallerier/seasons/everything2.PNG',1)"><img src=
-    	"bilder/seaso.PNG" width="150" height="25" id="seas" border="0"/></a></div>
-    
-    	<div id=title4><a href="darktales.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('dark','','bilder/gallerier/darktales/dance2.PNG',1)"><img src=
-    	"bilder/darkt.PNG" width="150" height="25" id="dark" border="0"/></a></div>
-    
-    	<div id=title5><a href="futuristic.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('futu','','bilder/gallerier/futuristic/tire2.PNG',1)"><img src=
-    	"bilder/futur.PNG" width="150" height="25" id="futu" border="0"/></a></div>
-    
-    	<div id=title6><a href="portraits.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('port','','bilder/gallerier/portraits/port2.PNG',1)"><img src=
-    	"bilder/portr.PNG" width="150" height="25" id="port" border="0"/></a></div>
-    	
-        <div id=title7><a href="dragonnest.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('drag','','bilder/gallerier/thedragonsnest/dragon2.PNG',1)"><img src=
-    	"bilder/dragons.PNG" width="150" height="25" id="drag" border="0"/></a></div>
-    	
-        <div id=title8><a href="whispers.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('wisp','','bilder/gallerier/whispers/glimpse2.PNG',1)"><img src=
-    	"bilder/whispe.PNG" width="250" height="25" id="wisp" border="0"/></a></div>
-    
-<div id="line1"><img src="bilder/line.PNG" /></div>
-<div id="fb"><a href="https://www.facebook.com/FotografSonjaSandstrom?fref=ts" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('fb2','','bilder/fb1.PNG',1)"><img src="bilder/fb2.PNG" width="20" height="20" id="fb2" border="0"/></a></div>
-<div id="vim"><a href="https://vimeo.com/user8520199" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('vim2','','bilder/vim1.PNG',1)"><img src="bilder/vim2.PNG" width="20" height="20" id="vim2" border="0"/></a></div>
-<div id="flic"><a href="https://www.flickr.com/photos/sonjas-photography" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('fli','','bilder/flic1.PNG',1)"><img src="bilder/flic2.PNG" width="20" height="20" id="fli" border="0"/></a></div>
-<div id="link"><a href="https://www.linkedin.com/in/sonjasandstrom" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('lin','','bilder/in1.PNG',1)"><img src="bilder/in2.PNG" width="20" height="20" id="lin" border="0"/></a></div>
-        
-        
+
+
+<div id="menug"><a href="gallery.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('menyyy1','','images/menu1.PNG',1)"><img src="images/menu2.PNG" width="80" height="30" id="menyyy1"></a></div>
+<div id="menua"><a href="about.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('menu2','','images/menu5.PNG',1)"><img src="images/menu6.PNG" width="80" height="30" id="menu2"></a></div>
+<div id="menus"><a href="https://www.etsy.com/se-en/shop/SonjasFineArt" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('menu3','','images/menu7.PNG',1)"><img src="images/menu8.PNG" width="80" height="30" id="menu3"></a></div>
+
+
+<div id="content"><!-- InstanceBeginEditable name="EditRegion3" -->
+
+<div id="mygallery" class="stepcarousel">
+<div class="belt">
+
+<div class="panel">
+<img src="images/index/1.PNG" />
+</div>
+
+<div class="panel">
+<img src="images/index/2.PNG" />
+</div>
+
+<div class="panel">
+<img src="images/index/3.PNG" />
+</div>
+
+<div class="panel">
+<img src="images/index/4.PNG" />
+</div>
+
+<div class="panel">
+<img src="images/index/5.PNG" />
+</div>
+
 </div>
 </div>
-<div id="slide"></div>
+
+<div id="bollar">
+<p id="mygallery-paginate">
+<span class="paginatecircle" data-moveby="1"></span>
+</p>
+</div>
+
+<!-- InstanceEndEditable -->
+</div>
+<div id="content2">
+
+<div id="line1"><img src="images/line1.PNG"></div>
+
+<div id="gallery1"><a href="cityt.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('gal1','','images/gal12.PNG',1)"><img src="images/gal11.PNG" width="360" height="360" id="gal1"></a></div>
+<div id="gallery2"><a href="fadingf.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('gal2','','images/gal22.PNG',1)"><img src="images/gal21.PNG" width="360" height="360" id="gal2"></a></div>
+<div id="gallery3"><a href="seasons.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('gal3','','images/gal32.PNG',1)"><img src="images/gal31.PNG" width="360" height="360" id="gal3"></a></div>
+<div id="gallery4"><a href="darkt.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('gal4','','images/gal42.PNG',1)"><img src="images/gal41.PNG" width="360" height="360" id="gal4"></a></div>
+<div id="gallery5"><a href="futuristic.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('gal5','','images/gal52.PNG',1)"><img src="images/gal51.PNG" width="360" height="360" id="gal5"></a></div>
+<div id="gallery6"><a href="portraits.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('gal6','','images/gal62.PNG',1)"><img src="images/gal61.PNG" width="360" height="360" id="gal6"></a></div>
+<div id="gallery7"><a href="dragonsn.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('gal7','','images/gal72.PNG',1)"><img src="images/gal71.PNG" width="360" height="360" id="gal7"></a></div>
+<div id="gallery8"><a href="whispersf.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('gal8','','images/gal82.PNG',1)"><img src="images/gal81.PNG" width="360" height="360" id="gal8"></a></div>
+
+<div id="galname1"></div>
+<div id="galname2"></div>
+<div id="galname3"></div>
+<div id="galname4"></div>
+<div id="galname5"></div>
+<div id="galname6"></div>
+<div id="galname7"></div>
+<div id="galname8"></div>
+
+<div id=galname1><a href="cityt.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('gal1','','images/gal12.PNG',1)"><img src="images/cityt.PNG" width="150" height="25" id="gal1" border="0"/></a></div>
+<div id=galname2><a href="fadingf.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('gal2','','images/gal22.PNG',1)"><img src="images/fadingf.PNG" width="150" height="25" id="gal2" border="0"/></a></div>
+<div id=galname3><a href="seasons.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('gal3','','images/gal32.PNG',1)"><img src="images/seaso.PNG" width="150" height="25" id="gal3" border="0"/></a></div>
+<div id=galname4><a href="darkt.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('gal4','','images/gal42.PNG',1)"><img src="images/darkt.PNG" width="150" height="25" id="gal4" border="0"/></a></div>
+<div id=galname5><a href="futuristic.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('gal5','','images/gal52.PNG',1)"><img src="images/futur.PNG" width="150" height="25" id="gal5" border="0"/></a></div>
+<div id=galname6><a href="portraits.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('gal6','','images/gal62.PNG',1)"><img src="images/portr.PNG" width="150" height="25" id="gal6" border="0"/></a></div>
+<div id=galname7><a href="dragonsn.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('gal7','','images/gal72.PNG',1)"><img src="images/dragons.PNG" width="150" height="25" id="gal7" border="0"/></a></div>
+<div id=galname8><a href="whispersf.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('gal8','','images/gal82.PNG',1)"><img src="images/whispe.PNG" width="250" height="25" id="gal8" border="0"/></a></div>
+
+<div id="line2"><img src="images/line2.PNG"></div>
+<div id="fb"><a href="https://www.facebook.com/FotografSonjaSandstrom?fref=ts" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('fb2','','images/fb1.PNG',1)"><img src="images/fb2.PNG" width="20" height="20" id="fb2"></a></div>
+<div id="flic"><a href="https://www.flickr.com/photos/sonjas-photography" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('flic2','','images/flic1.PNG',1)"><img src="images/flic2.PNG" width="20" height="20" id="flic2"></a></div>
+<div id="vimeo"><a href="https://vimeo.com/user8520199" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('vimeo2','','images/vim1.PNG',1)"><img src="images/vim2.PNG" width="20" height="20" id="vimeo2"></a></div>
+<div id="linked"><a href="https://www.linkedin.com/in/sonjasandstrom" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('linke2','','images/in1.PNG',1)"><img src="images/in2.PNG" width="20" height="20" id="linke2"></a></div>
+
+<div id="line3"><a href="https://www.facebook.com/Moquist-Webdesign-555905961270723/"><img src="images/line3.PNG"></a></div>
+<div id="line4"><a href="mailto:sandstrom.sonja@gmail.com"><img src="images/line4.PNG"></a></div>
+</div>
 
 </body>
-</html>
+<!-- InstanceEnd --></html>
